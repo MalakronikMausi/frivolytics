@@ -1,0 +1,8 @@
+Get basic data for IMDB top 100:
+- Go to https://pro.imdb.com/people?ref_=hm_reel_sm_all#sort=ranking (need pro account)
+- Right click on table header and select Inspect
+- Right click on div with id "results" and select Copy —> Copy Element
+- Paste contents into file (starmeter.txt)
+- Run parse_stars.py to extract data into a table (output: stars_out.cv)
+
+Get ranking history for IMDB top 100:
