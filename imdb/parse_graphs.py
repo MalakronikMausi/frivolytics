@@ -1,7 +1,10 @@
 import os, sys
 
-for subdir, dirs, files in os.walk('pro-labs.imdb.com'):
+for subdir, dirs, files in os.walk('pro.imdb.com'):
 
+	if not os.path.exists('graphs'):
+    		os.makedirs('graphs')
+	
 	for file in files:
 
 		row1 = ['name']

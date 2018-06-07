@@ -52,8 +52,10 @@ with open('starmeter.txt','r') as f:
 			next_is_aka = True
 		
 
-with open('stars_out.csv','w') as f:
-	f.write('rank,name,url,age,height,roles,titles,aliases\n')
+with open('stars_out.txt','w') as f:
+	f.write('rank;name;url;age;height;roles;titles;aliases\n')
 	for n in range(1000):
-		f.write(','.join([str(ranks[n]),names[n],urls[n],ages[n],heights[n],roles[n],titles[n],akas[n]]) + '\n')
+		outline = ';'.join([str(ranks[n]),names[n],urls[n],ages[n],heights[n],roles[n],titles[n],akas[n]]) + '\n'
+		outline = outline.replace('&amp;', '&')
+		f.write(outline)
 			
