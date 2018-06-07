@@ -35,5 +35,4 @@ tableau_data <- tableau_data %>% separate(date, c("year", "month", "day"), "\\."
 #Adjust age to match age at time of ranking
 tableau_data$age <- tableau_data$age - (2018 - as.numeric(tableau_data$year))
 
-
 write.table(tableau_data, file = "tableau_data.csv", sep = ",", row.names = FALSE)
