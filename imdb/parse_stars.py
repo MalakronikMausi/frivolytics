@@ -1,5 +1,21 @@
 import re
 
+# fractions
+char_strings = {
+    '\xc2\xbc' : '.25',      # one quarter
+    '\xc2\xbd' : '.5',      # one half
+    '\xc2\xbe' : '.75',      # three quarters
+}
+
+def parseHeight(height):
+	parts = re.split(r'[\'\"]', height)
+	feet = parts[0]
+	inches = parts[1]
+	for s in char_strings:
+		inches = inches.replace(s, char_strings[s])
+	
+	return str(float(feet) * 12 + float(inches))
+
 ranks = range(1,1001)
 names = []
 urls = []
@@ -17,7 +33,7 @@ index = 0;
 with open('starmeter.txt','r') as f:
 	for line in f:	
 		if next_is_role:
-			roles.append(re.split('</li>',line)[0].replace('<span class="delimiter"> | </span>', '|').strip())
+			roles.append(line.split('</li>')[0].replace('<span class="delimiter"> | </span>', '|').strip())
 			next_is_role = False
 		elif next_is_titles:
 			title_list = []
@@ -43,7 +59,7 @@ with open('starmeter.txt','r') as f:
 			ages.append('' if age == '&nbsp;' else age)
 		elif line.find('<span class=\"height sort\">') > -1:
 			height = line.split('<span class=\"height sort\">')[1].strip()
-			heights.append('' if height == '&nbsp;' else height)
+			heights.append('' if height == '&nbsp;' else parseHeight(height))
 		elif line.find('<li class="job_categories ellipsis">') > -1:
 			next_is_role = True
 		elif line.find('<li class="known_for ellipsis">') > -1:
