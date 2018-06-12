@@ -1,34 +1,15 @@
-import numpy as np
+import pandas as pd
 
+my_data = pd.read_csv('stars_out.txt', sep=';', header=0)
 
-def myfunction( x ):
-	return sum(x)
-
-
-my_data = genfromtxt('stars_out.txt', delimiter=';', names=True)
-
-
-all_roles = {}
-
-for n in my_data.shape[0]:
-	roles = my_data[n]['roles'].split('|')
-	print roles
+for n in range(my_data.shape[0]):
+	roles = my_data.loc[n]['roles'].split('|')
 	for role in roles:
-		if not role in all_roles:
-			all_roles[role] = [False] * my_data.shape[0])
-		all_roles[role][n] = True
+		if not role in my_data.columns:
+			my_data.insert(my_data.columns.get_loc('titles') - 1, role, ['0'] * my_data.shape[0])
+		my_data.at[n,role] = '1'
 
-for role in all_roles:
-	numpy.insert(my_data, all_roles[role], axis=1)
+my_data.drop('roles', axis=1, inplace=True)
 
-
-
-
-
-
-	with open('graphs/' + filename,'w') as f:
-		f.write(','.join(row1))
-		f.write('\n')
-		f.write(','.join(row2))
-		f.write('\n')
+my_data.to_csv('taggle_out.csv', sep=';')
 			
