@@ -1,0 +1,1001 @@
+rank;name;age;height;Actor;Actress;Director;Producer;Writer;titles;aliases
+1;Emilia Clarke;31.0;62.0;0;1;0;0;0;Game of Thrones|Terminator Genisys|Me Before You;Milly
+2;Alden Ehrenreich;28.0;69.5;1;0;0;0;0;Hail, Caesar!|Beautiful Creatures|Solo: A Star Wars Story;Alden Caleb Ehrenreich
+3;Jacob Elordi;;75.0;1;0;0;0;1;The Kissing Booth|Swinging Safari|Pirates of the Caribbean: Dead Men Tell No Tales;
+4;Phoebe Waller-Bridge;32.0;69.75;0;1;0;1;1;Fleabag|Solo: A Star Wars Story|Crashing;
+5;Morena Baccarin;39.0;67.5;0;1;0;0;0;Deadpool|Serenity|Deadpool 2;
+6;Meghan Markle;;67.0;0;1;0;0;0;Remember Me|Horrible Bosses|A Lot Like Love;Meghan Duchess of Sussex
+7;Joey King;;64.0;0;1;0;1;0;The Kissing Booth|Independence Day: Resurgence|Fargo;
+8;Bryce Dallas Howard;;67.0;0;1;1;0;1;Jurassic World|The Help|Gold;Bryce Howard
+9;Zazie Beetz;;;0;1;0;0;0;Atlanta|Applesauce|Finding Her;
+10;Josh Brolin;50.0;70.5;1;0;1;1;0;No Country for Old Men|Inherent Vice|Milk;
+11;Alicia Vikander;29.0;66.0;0;1;0;1;0;Ex Machina|The Danish Girl|The Man from U.N.C.L.E.;
+12;Katherine Langford;;65.5;0;1;0;0;0;Love, Simon|13 Reasons Why|Spontaneous;Kat
+13;Alexandra Daddario;32.0;68.0;0;1;0;0;0;Baywatch|Texas Chainsaw 3D|Percy Jackson & the Olympians: The Lightning Thief;Alex Daddario|Daddario|Alexandra Daddorio
+14;Natalie Dormer;;65.75;0;1;0;1;1;Game of Thrones|The Hunger Games: Mockingjay - Part 1|The Hunger Games: Mockingjay - Part 2;
+15;Ryan Reynolds;41.0;74.0;1;0;0;1;0;Deadpool|X-Men Origins: Wolverine|Buried;Champ Nightengale|Unicorn
+16;Brianna Hildebrand;;63.0;0;1;0;1;0;Deadpool|Deadpool 2|Tragedy Girls;
+17;Donald Glover;34.0;69.0;1;0;0;0;1;Atlanta|Solo: A Star Wars Story|The Martian;Derrick Comedy|Childish Gambino|Donald Glover II
+18;Richard Madden;31.0;69.75;1;0;0;0;0;Game of Thrones|The Take|Cinderella;
+19;Tom Holland;22.0;68.0;1;0;1;1;0;Spider-Man: Homecoming|The Impossible|Captain America: Civil War;
+20;Shailene Woodley;26.0;68.0;0;1;0;1;0;Divergent|The Descendants|The Fault in Our Stars;Shai|Shaileney Beany
+21;Maika Monroe;25.0;66.0;0;1;0;0;0;Independence Day: Resurgence|It Follows|The 5th Wave;Maika Buckley
+22;Yvonne Strahovski;;69.5;0;1;0;0;0;Dexter|24: Live Another Day|Killer Elite;Yvonne Strechowski|Yvonne Strzechowski|Strahotski
+23;Thandie Newton;45.0;63.0;0;1;0;1;0;Crash|Mission: Impossible II|Westworld;
+24;Karen Gillan;30.0;71.0;0;1;1;0;1;Selfie|Guardians of the Galaxy|Not Another Happy Ending;Kaz
+25;Paul Bettany;47.0;75.5;1;0;1;0;1;Master and Commander: The Far Side of the World|A Knight's Tale|Margin Call;
+26;Gillian Jacobs;35.0;64.0;0;1;1;0;0;Community|Walk of Shame|The Box;Gill
+27;Joonas Suotamo;31.0;83.25;1;0;0;0;0;Solo: A Star Wars Story|Star Wars: Episode VII - The Force Awakens|Star Wars: The Last Jedi;
+28;Ross Butler;28.0;74.5;1;0;0;0;0;13 Reasons Why|Riverdale|K.C. Undercover;
+29;Anne Winters;;63.0;0;1;0;0;0;13 Reasons Why|Mom and Dad|Zac and Mia;Annie|Bananie
+30;Erin Kellyman;;;0;1;0;0;0;Solo: A Star Wars Story|Les Misérables|Raised by Wolves;
+31;Dylan Minnette;;68.0;1;0;0;0;0;Prisoners|Alexander and the Terrible, Horrible, No Good, Very Bad Day|Let Me In;
+32;Riley Keough;29.0;67.0;0;1;0;1;0;Mad Max: Fury Road|American Honey|It Comes at Night;Riley
+33;Evangeline Lilly;38.0;66.0;0;1;0;0;0;Ant-Man|The Hobbit: The Desolation of Smaug|The Hobbit: The Battle of the Five Armies;Evi|Monkey
+34;Tom Hardy;40.0;69.0;1;0;0;1;1;Inception|The Dark Knight Rises|Locke;Thomas Hardy
+35;Zendaya;21.0;70.0;0;1;0;1;0;Spider-Man: Homecoming|The Greatest Showman|K.C. Undercover;Zendaya Coleman|Daya|Z
+36;Sofia Boutella;36.0;65.0;0;1;0;0;0;Star Trek: Beyond|Kingsman: The Secret Service|The Mummy;
+37;Ron Howard;64.0;69.0;1;0;1;1;0;Arrested Development|A Beautiful Mind|Apollo 13;Ronnie Howard|Ronny Howard
+38;Tessa Thompson;34.0;64.0;0;1;0;1;0;Creed|Thor: Ragnarok|Dear White People;
+39;Valorie Curry;32.0;64.0;0;1;0;1;0;The Twilight Saga: Breaking Dawn - Part 2|Blair Witch|The Following;
+40;Brie Larson;;67.0;0;1;0;0;0;Room|Short Term 12|Kong: Skull Island;
+41;Sarah Shahi;38.0;63.0;0;1;0;1;0;Bullet to the Head|Alias|Old School;Sara Shahi
+42;Olivia Munn;;64.0;0;1;0;0;1;The Newsroom|X-Men: Apocalypse|The Daily Show;Lisa Munn|The Geek Goddess
+43;Evan Rachel Wood;30.0;67.0;0;1;0;0;0;Thirteen|Whatever Works|Westworld;Evan Rachael Wood|Evan Wood|Evan Rachel Woods
+44;Clint Eastwood;88.0;76.0;1;0;1;1;0;Gran Torino|Million Dollar Baby|Unforgiven;Clint
+45;Katja Herbers;;66.5;0;1;0;0;0;Manhattan|Westworld|The Leftovers;Katja Mira Herders
+46;Jennifer Lawrence;27.0;69.0;0;1;0;1;0;The Hunger Games|Silver Linings Playbook|American Hustle;Jen|JLaw|Nitro: Nickname at school
+47;Jodie Comer;25.0;;0;1;0;0;0;Rillington Place|Thirteen|Doctor Foster;
+48;Margot Robbie;27.0;66.0;0;1;0;1;0;Suicide Squad|The Wolf of Wall Street|I, Tonya;
+49;Tom Cruise;55.0;67.0;1;0;0;1;0;Top Gun|The Last Samurai|Minority Report;Tomu Kurûzu|TC
+50;Rebecca Ferguson;;67.0;0;1;0;0;0;Mission: Impossible - Rogue Nation|Despite the Falling Snow|Life;
+51;Ray Park;43.0;69.0;1;0;0;0;0;Star Wars: Episode I - The Phantom Menace|X-Men|G.I. Joe: The Rise of Cobra;
+52;Alia Shawkat;29.0;65.0;0;1;0;1;0;Arrested Development|The To Do List|Whip It;Rich Aliaändanost|Allie
+53;Hannah John-Kamen;;66.0;0;1;0;0;0;Ready Player One|Ant-Man and the Wasp|Black Mirror;Hannah John Kamen
+54;Jesse Plemons;30.0;70.0;1;0;0;0;0;Battleship|Black Mass|Game Night;Meth Damon
+55;Carey Mulligan;33.0;67.0;0;1;0;1;0;Never Let Me Go|An Education|Shame;
+56;Blake Lively;30.0;70.0;0;1;0;1;0;Gossip Girl|The Age of Adaline|The Shallows;
+57;Danielle Harris;41.0;59.0;0;1;1;1;0;Don't Tell Mom the Babysitter's Dead|Halloween 4: The Return of Michael Myers|Halloween II;Danielle Andrea Harris
+58;Chris Pratt;38.0;74.0;1;0;0;1;0;Guardians of the Galaxy|The Lego Movie|Parks and Recreation;Monkeyboy
+59;Rachel McAdams;39.0;64.0;0;1;0;0;0;The Notebook|Mean Girls|Red Eye;Rachel Mcadams|Rach
+60;Michael B. Jordan;31.0;71.5;1;0;1;1;0;Fruitvale Station|Creed|Fantastic Four;Michael B Jordan|Michael Jordan
+61;Chris Hemsworth;34.0;75.0;1;0;0;0;0;The Avengers|Thor|Thor: Ragnarok;Kip
+62;Sam Claflin;31.0;71.0;1;0;0;1;0;The Hunger Games: Catching Fire|Me Before You|Snow White and the Huntsman;Samuel Claflin|Claf
+63;Izabela Vidovic;17.0;64.0;0;1;0;1;1;Wonder|Homefront|The Fosters;Bela
+64;Justin Prentice;;70.5;1;0;0;1;0;13 Reasons Why|Malibu Country|Awkward.;
+65;Elisabeth Moss;35.0;63.0;0;1;0;1;0;The One I Love|The Handmaid's Tale|Queen of Earth;Elissabeth Moss|Elizabeth Moss|Liz Moss
+66;Jennifer Connelly;47.0;66.5;0;1;0;0;0;A Beautiful Mind|Requiem for a Dream|House of Sand and Fog;Jenny C
+67;Roseanne Barr;65.0;64.0;0;1;0;1;1;Roseanne|Freddy's Dead: The Final Nightmare|Look Who's Talking Too;Mrs. Tom Arnold|Roseane Arnold|Roseanne Barr Arnold
+68;Miles Heizer;24.0;70.0;1;0;0;0;0;Nerve|Rails & Ties|Love, Simon;
+69;Anita Briem;;64.0;0;1;0;0;0;Journey to the Center of the Earth|Dylan Dog: Dead of Night|Elevator;
+70;Alexa Davalos;36.0;68.0;0;1;0;0;0;Defiance|The Chronicles of Riddick|Clash of the Titans;
+71;Michael C. Hall;47.0;70.0;1;0;0;1;0;Dexter|Gamer|Six Feet Under;Michael Hall
+72;Abigail Spencer;;65.0;0;1;0;1;1;Mad Men|Rectify|Oz the Great and Powerful;Abigail Leigh Spencer|Abby
+73;Cole Sprouse;25.0;72.0;1;0;0;1;0;Riverdale|Friends|Big Daddy;The Sprouse Twins|Cole Mitchell Sprouse
+74;Julian Dennison;15.0;63.0;1;0;0;0;0;Hunt for the Wilderpeople|Deadpool 2|Shopping;
+75;Helena Bonham Carter;52.0;62.0;0;1;0;1;0;Les Misérables|Sweeney Todd: The Demon Barber of Fleet Street|Fight Club;Helena Bonham-Carter
+76;Brandon Flynn;24.0;71.0;1;0;0;1;0;13 Reasons Why|BrainDead|Looks That Kill;
+77;Elizabeth Debicki;27.0;75.0;0;1;0;0;0;The Great Gatsby|Guardians of the Galaxy Vol. 2|The Man from U.N.C.L.E.;
+78;Rami Malek;37.0;69.0;1;0;0;1;0;Mr. Robot|Short Term 12|Need for Speed;
+79;Brooke Shields;53.0;70.5;0;1;0;1;0;The Blue Lagoon|Pretty Baby|Suddenly Susan;Brookie
+80;Minka Kelly;;65.0;0;1;0;0;0;500 Days of Summer|The Roommate|Just Go with It;
+81;Elizabeth Olsen;29.0;66.0;0;1;0;1;0;Martha Marcy May Marlene|Captain America: Civil War|Avengers: Infinity War;Lizzie Olsen|Lizzie|Liz
+82;Nick Robinson;;74.0;1;0;0;0;0;Jurassic World|Everything, Everything|Boardwalk Empire;Nick J. Robinson|Nick
+83;Brad Pitt;54.0;71.0;1;0;0;1;0;Mr. & Mrs. Smith|Moneyball|Twelve Monkeys;Weatherman
+84;Sylvia Hoeks;35.0;69.0;0;1;0;0;0;Blade Runner 2049|The Best Offer|Whatever Happens;Sylvia Hoecks|Sylvia Hoek
+85;Jesse Williams;;73.0;1;0;1;1;0;The Cabin in the Woods|Grey's Anatomy|Brooklyn's Finest;J. Wesley Williams
+86;Sarah Wayne Callies;41.0;68.75;0;1;1;0;1;Prison Break|Into the Storm|Colony;Sarah Callies
+87;Astrid Bergès-Frisbey;32.0;67.5;0;1;0;0;0;King Arthur: Legend of the Sword|I Origins|Pirates of the Caribbean: On Stranger Tides;
+88;Benedict Cumberbatch;41.0;72.0;1;0;0;1;0;The Imitation Game|Star Trek: Into Darkness|August: Osage County;Benedikuto Kanbâbatchi|Ben
+89;Gal Gadot;33.0;70.25;0;1;0;1;0;Wonder Woman|Batman v Superman: Dawn of Justice|Furious 7;
+90;Scarlett Johansson;33.0;63.0;0;1;1;0;0;Her|Lost in Translation|The Avengers;Scarlett Johanssen
+91;Leonardo DiCaprio;43.0;72.0;1;0;0;1;1;Inception|The Departed|The Wolf of Wall Street;Leonardo Di Caprio|Leo DiCaprio|Leo
+92;Sosie Bacon;26.0;;0;1;0;0;0;Loverboy|13 Reasons Why|Scream: The TV Series;
+93;Natalie Portman;36.0;63.0;0;1;0;1;0;Black Swan|V for Vendetta|Jackie;Nat
+94;Bailee Madison;18.0;66.0;0;1;0;1;0;Bridge to Terabithia|Brothers|Just Go with It;Bailee Madison Williams Holte|Bail|Bailes
+95;Zoe Saldana;39.0;66.5;0;1;0;1;1;Avatar|Guardians of the Galaxy|Star Trek;Zoë Saldana|Zoe Saldaña|Zoë Saldaña
+96;Dwayne Johnson;46.0;77.25;1;0;0;1;0;Journey 2: The Mysterious Island|Jumanji: Welcome to the Jungle|Moana;Dwayne 'The Rock' Johnson|Dwayne Douglas Johnson|Seiuli Dwayne 'The Rock' Johnson
+97;Talulah Riley;32.0;68.25;0;1;1;0;1;Westworld|Pride & Prejudice|Inception;
+98;Hayley Atwell;36.0;66.5;0;1;0;0;0;Captain America: The First Avenger|Ant-Man|Captain America: The Winter Soldier;Hayley Attwell
+99;Sebastian Stan;35.0;72.25;1;0;0;0;0;Captain America: Civil War|Captain America: The Winter Soldier|Captain America: The First Avenger;
+100;Emily Blunt;35.0;67.0;0;1;0;0;0;Edge of Tomorrow|The Devil Wears Prada|The Adjustment Bureau;Em
+101;Lily James;29.0;67.0;0;1;0;0;0;Cinderella|Pride and Prejudice and Zombies|Baby Driver;
+102;Robert Downey Jr.;53.0;68.5;1;0;0;1;0;Iron Man|Sherlock Holmes|Iron Man 3;Bob Downey|Robert Downey|Robert Downey Jr
+103;Harrison Ford;75.0;73.0;1;0;0;1;1;Raiders of the Lost Ark|Witness|The Fugitive;Jethro the Bus Driver|Harrison J. Ford|Harry
+104;AnnaSophia Robb;24.0;60.0;0;1;0;0;0;Bridge to Terabithia|Soul Surfer|The Way Way Back;Annasophia Robb
+105;Jennifer Jason Leigh;56.0;63.0;0;1;0;1;0;The Hateful Eight|Dolores Claiborne|Anomalisa;Jennifer Leigh|JJL
+106;Alisha Boe;;64.0;0;1;0;0;0;13 Reasons Why|68 Kill|Casual;
+107;Woody Harrelson;56.0;69.5;1;0;0;1;0;True Detective|The People vs. Larry Flynt|Natural Born Killers;
+108;Chris Evans;36.0;72.0;1;0;1;1;0;The Avengers|Captain America: The First Avenger|Captain America: Civil War;Cevans
+109;Bryan Dechart;;72.0;1;0;1;0;0;Detroit: Become Human|The Remaining|Dakota's Summer;
+110;Laura Bailey;;65.0;0;1;0;0;0;Uncharted 4: A Thief's End|Halo 5: Guardians|Gears of War 4;Elle Deets
+111;Vanessa Kirby;;67.0;0;1;0;0;0;The Crown|Mission: Impossible - Fallout|About Time;Noola Noo
+112;Kelly Rohrbach;27.0;69.0;0;1;0;0;0;Baywatch|Broad City|Café Society;
+113;Lea Thompson;57.0;63.0;0;1;1;1;0;Back to the Future Part II|Back to the Future|Howard the Duck;
+114;Jessica Chastain;41.0;64.0;0;1;0;1;0;Zero Dark Thirty|The Tree of Life|Interstellar;
+115;Melissa McCarthy;47.0;62.0;0;1;0;1;0;The Heat|Spy|Bridesmaids;
+116;Emily Ratajkowski;26.0;67.0;0;1;0;0;0;We Are Your Friends|Gone Girl|Entourage;
+117;John Krasinski;38.0;75.0;1;0;0;1;0;A Quiet Place|The Office|Something Borrowed;
+118;Tom Hiddleston;37.0;74.25;1;0;0;1;0;The Avengers|Thor|The Night Manager;Hiddles
+119;Michelle Williams;37.0;64.0;0;1;0;1;0;Blue Valentine|My Week with Marilyn|Manchester by the Sea;
+120;Andy Serkis;54.0;68.0;1;0;0;1;0;War for the Planet of the Apes|Rise of the Planet of the Apes|Dawn of the Planet of the Apes;Andy Serkis and The Blockheads|Gollum
+121;Logan Marshall-Green;41.0;71.0;1;0;0;1;0;The Invitation|Spider-Man: Homecoming|Devil;Logan Marshall Green
+122;Clancy Brown;59.0;75.75;1;0;0;1;0;The Shawshank Redemption|Starship Troopers|Thor: Ragnarok;
+123;Bill Skarsgård;27.0;75.75;1;0;0;0;0;It|Allegiant|Deadpool 2;Bill Skarsgard|Billie
+124;K.J. Apa;20.0;71.0;1;0;0;0;0;Riverdale|The Cul De Sac|A Dog's Purpose;KJ Apa|KJ
+125;Christian Navarro;;67.0;1;0;0;0;0;13 Reasons Why|Bushwick|Vinyl;
+126;Charlize Theron;42.0;69.5;0;1;0;1;0;Monster|Mad Max: Fury Road|Snow White and the Huntsman;Sharliz Teron|Charlie
+127;Max Minghella;32.0;70.0;1;0;0;1;1;The Social Network|Horns|The Darkest Hour;
+128;Christina Hendricks;43.0;68.0;0;1;0;0;0;Ginger & Rosa|The Neon Demon|Mad Men;
+129;Jason Momoa;38.0;76.0;1;0;1;1;0;Justice League|Conan the Barbarian|Stargate: Atlantis;
+130;Milly Shapiro;;;0;1;0;0;0;Hereditary|Broadway Kids Against Bullying: I Have a Voice|The 67th Annual Tony Awards;
+131;Chadwick Boseman;40.0;72.0;1;0;0;1;1;Black Panther|Captain America: Civil War|42;Chad Boseman|Chad
+132;Cate Blanchett;49.0;68.0;0;1;1;1;0;Carol|Blue Jasmine|Elizabeth;
+133;Hailee Steinfeld;21.0;67.0;0;1;0;0;0;True Grit|The Edge of Seventeen|Pitch Perfect 2;
+134;Amanda Seyfried;32.0;62.5;0;1;0;1;0;Les Misérables|Mean Girls|Dear John;
+135;Keri Russell;42.0;64.0;0;1;0;0;0;Waitress|Mission: Impossible III|Dawn of the Planet of the Apes;Care Bear
+136;Keanu Reeves;53.0;73.25;1;0;0;1;0;The Matrix|Speed|Point Break;Norman Kreeves|K.C. Reeves|Keannu Reeves
+137;Christopher Nolan;47.0;71.5;0;0;1;1;1;Interstellar|Inception|The Prestige;Chris Nolan|Chris
+138;Angelina Jolie;43.0;66.75;0;1;1;1;0;Maleficent|Girl, Interrupted|Changeling;Angelina|Angelina Jolie Pitt|Angelina Jolie Voight
+139;Eline Powell;;64.0;0;1;0;0;0;Siren|Game of Thrones;
+140;Priyanka Chopra;35.0;66.5;0;1;0;1;0;Baywatch|Bajirao Mastani|Barfi!;Piggy Chops|Mimi|Piggy Chops
+141;Ana de Armas;;66.25;0;1;0;0;0;Blade Runner 2049|Hands of Stone|War Dogs;Ana De Armas|Ana Celia de Armas
+142;Chloë Grace Moretz;21.0;64.0;0;1;0;0;0;Let Me In|The 5th Wave|If I Stay;Chloe Grace|Kuroe Gurêsu Morettsu|Chloe Grace Moretz
+143;Zac Efron;30.0;68.0;1;0;0;1;0;High School Musical 3: Senior Year|17 Again|Hairspray;Zachary Efron|Zefron
+144;Mary Elizabeth Winstead;33.0;68.0;0;1;0;1;0;10 Cloverfield Lane|Scott Pilgrim vs. the World|Smashed;MEW|Mary
+145;Claire Foy;34.0;64.0;0;1;0;0;0;The Crown|Season of the Witch|Breathe;
+146;Olivia Cooke;24.0;65.5;0;1;0;0;0;Ready Player One|Me and Earl and the Dying Girl|Ouija;
+147;Stephanie Corneliussen;;71.0;0;1;0;0;0;Mr. Robot|The Rebels|Legends of Tomorrow;
+148;Dakota Fanning;24.0;64.0;0;1;1;0;0;War of the Worlds|I Am Sam|Man on Fire;Kota
+149;Emma Kenney;18.0;67.0;0;1;0;0;0;Shameless|Epic|Bittersweet;
+150;Parker Posey;49.0;65.0;0;1;0;0;1;Superman Returns|Scream 3|Blade: Trinity;Missy|Queen of the Indies
+151;Christa Miller;54.0;68.5;0;1;0;0;0;Scrubs|The Drew Carey Show|Cougar Town;Christa Miller Lawrence
+152;Johnny Depp;54.0;70.0;1;0;0;1;0;Pirates of the Caribbean: The Curse of the Black Pearl|Sweeney Todd: The Demon Barber of Fleet Street|Pirates of the Caribbean: At World's End;J. Depp|The Hollywood Vampires|Guy Lapointe
+153;Daisy Ridley;26.0;67.0;0;1;0;1;0;Star Wars: Episode VII - The Force Awakens|Star Wars: The Last Jedi|Murder on the Orient Express;
+154;Bruce Willis;63.0;72.0;1;0;0;1;0;Die Hard|Pulp Fiction|Moonlighting;W.B. Willis|Bruno
+155;Hugh Jackman;49.0;74.25;1;0;0;1;0;Les Misérables|Logan|X-Men Origins: Wolverine;Khyu Dzhekman|Hyû Jakkuman
+156;Pom Klementieff;32.0;67.0;0;1;0;0;0;Guardians of the Galaxy Vol. 2|Old Boy|Avengers: Infinity War;Pominator
+157;Amy Schumer;37.0;67.0;0;1;0;1;1;Trainwreck|Inside Amy Schumer|Snatched;Amy Beth Schumer|Amy Shumer
+158;Brigitte Nielsen;54.0;73.0;0;1;0;1;0;Red Sonja|Beverly Hills Cop II|Gitte Talks;Brigitte Neilsen|Gitte Nielsen|The Great Dane
+159;Luke Hemsworth;;69.5;1;0;0;0;0;Thor: Ragnarok|Westworld|Thor: The Dark World;
+160;Joel Kinnaman;;74.5;1;0;0;0;0;RoboCop|Suicide Squad|The Darkest Hour;Joel Kinnamann|Joel Nordström
+161;Elle Fanning;20.0;69.0;0;1;0;1;0;Super 8|The Neon Demon|Maleficent;Elbow
+162;Lili Reinhart;21.0;66.0;0;1;0;0;0;Riverdale|The Kings of Summer|The First Hope;Lil
+163;Letitia Wright;24.0;;0;1;0;0;0;Black Panther|The Commuter|Black Mirror;
+164;Cillian Murphy;42.0;69.0;1;0;0;1;0;28 Days Later...|Inception|Red Eye;Cilly
+165;Idina Menzel;47.0;64.0;0;1;0;0;0;Frozen|Rent|Enchanted;Dee|Adele Dazeem
+166;Anne Hathaway;35.0;68.0;0;1;0;1;0;Les Misérables|The Dark Knight Rises|Rachel Getting Married;An Hasawei|Anne Whitney Hathaway|Ann Hathaway
+167;Suki Waterhouse;26.0;68.5;0;1;0;1;0;Insurgent|Love, Rosie|The Bad Batch;
+168;Joseph Fiennes;48.0;72.0;1;0;1;1;0;Shakespeare in Love|The Merchant of Venice|Elizabeth;Joe
+169;Walton Goggins;46.0;71.0;1;0;0;1;0;Justified|The Hateful Eight|Predators;Walt Goggins
+170;Tom Hanks;61.0;72.0;1;0;0;1;0;Cast Away|Saving Private Ryan|Forrest Gump;Tomu Hankusu
+171;Rosamund Pike;39.0;68.5;0;1;0;0;0;Gone Girl|Die Another Day|Pride & Prejudice;Ros
+172;Isla Fisher;42.0;63.0;0;1;0;1;0;Wedding Crashers|Confessions of a Shopaholic|Rise of the Guardians;Ayala Fisher
+173;Joel Courtney;22.0;73.25;1;0;0;0;0;Super 8|F*&% the Prom|The Messengers;Joel Dabney Courtney
+174;John Wayne;;76.0;1;0;0;1;0;True Grit|The Man Who Shot Liberty Valance|The Alamo;Michael Morris|Duke Morrison|Marion Michael Morrison
+175;Clint Walker;;78.0;1;0;0;0;0;The Dirty Dozen|Small Soldiers|Send Me No Flowers;
+176;Alison Brie;35.0;63.0;0;1;0;1;0;The Lego Movie|Community|Sleeping with Other People;
+177;Quentin Tarantino;55.0;73.0;1;0;0;1;1;Reservoir Dogs|Pulp Fiction|The Hateful Eight;Q|Quentin Tarrantino|QT
+178;Dave Bautista;49.0;76.0;1;0;0;1;0;Guardians of the Galaxy|Avengers: Infinity War|Guardians of the Galaxy Vol. 2;Dave Batista|Deacon Batista|Batista
+179;Emmy Rossum;31.0;68.0;0;1;1;0;0;The Phantom of the Opera|The Day After Tomorrow|Shameless;Em|Emmy Grey
+180;Katheryn Winnick;;66.0;0;1;0;0;0;Vikings|50 First Dates|Killers;
+181;Travis Fimmel;38.0;72.25;1;0;0;1;1;Warcraft: The Beginning|Vikings|The Baytown Outlaws;Rangi
+182;Warwick Davis;48.0;42.0;1;0;0;1;1;Willow|The Hitchhiker's Guide to the Galaxy|Harry Potter and the Deathly Hallows: Part 2;Warwick Davies
+183;Annabelle Wallis;;67.0;0;1;0;0;0;The Mummy|Annabelle|X-Men: First Class;Annabella Wallace|Annabelle Wallace|Annabele Wallis
+184;Asia Kate Dillon;33.0;67.0;1;0;0;0;0;Orange Is the New Black|Billions|Opus for All;Asia Dillon
+185;Jennifer Aniston;49.0;64.75;0;1;0;1;0;Friends|Cake|We're the Millers;Jennifer Joanna Aniston|Jennifer Aniston Arquette|Jennifer Aniston Pitt
+186;Zachary Levi;37.0;76.0;1;0;0;1;0;Chuck|Tangled|Thor: The Dark World;Zac
+187;Diane Lane;53.0;67.0;0;1;0;0;0;Unfaithful|Under the Tuscan Sun|Inside Out;Diane Brolin
+188;Elisabeth Shue;54.0;62.0;0;1;0;1;0;Leaving Las Vegas|Adventures in Babysitting|The Saint;Lisa Shue|Lisa
+189;Lauren Cohan;36.0;67.0;0;1;0;0;0;The Boy|Batman v Superman: Dawn of Justice|Casanova;
+190;Jake Gyllenhaal;37.0;72.25;1;0;0;1;0;Nightcrawler|Brokeback Mountain|Prisoners;Jacob Gyllenhaal|Jake Gyllenhall
+191;Alice Eve;36.0;65.5;0;1;1;1;0;Before We Go|She's Out of My League|Star Trek: Into Darkness;
+192;Henry Cavill;35.0;73.0;1;0;0;0;0;Man of Steel|Batman v Superman: Dawn of Justice|The Man from U.N.C.L.E.;Hank|Henners|Most Dashing Duke
+193;Jason Bateman;49.0;71.0;1;0;1;1;0;Arrested Development|Bad Words|Zootopia;
+194;Lily-Rose Depp;19.0;63.0;0;1;0;0;0;Tusk|Yoga Hosers|The Dancer;Lily-Rose Melody Depp|Lily
+195;Zooey Deschanel;38.0;65.0;0;1;0;1;0;New Girl|500 Days of Summer|The Hitchhiker's Guide to the Galaxy;She & Him|Zo|Zuzu
+196;Kate Walsh;50.0;68.5;0;1;0;1;0;The Perks of Being a Wallflower|Grey's Anatomy|Legion;Katie|Katiekat|K-Town
+197;Angela Sarafyan;34.0;68.0;0;1;0;1;0;Westworld;
+198;Mila Kunis;34.0;64.0;0;1;0;1;0;Black Swan|Jupiter Ascending|Bad Moms;Mila Kunas|Goldfish
+199;Devin Druid;;72.0;1;0;0;0;0;Louder Than Bombs|Imperium|13 Reasons Why;Devin McKenzie Druid
+200;Christian Bale;44.0;72.25;1;0;0;1;0;The Dark Knight|Batman Begins|American Hustle;
+201;Amber Heard;32.0;67.0;0;1;0;1;0;The Rum Diary|Machete Kills|3 Days to Kill;
+202;Carla Gugino;46.0;65.0;0;1;0;1;0;Watchmen|Gerald's Game|San Andreas;Taryn Gugino
+203;Zoey Deutch;23.0;64.0;0;1;0;1;0;Before I Fall|Everybody Wants Some!!|Why Him?;
+204;Shioli Kutsuna;25.0;62.0;0;1;0;0;0;Deadpool 2|The Outsider|My Back Pages;Shiori Kutsuna
+205;Stephanie Beatriz;;66.0;0;1;0;1;0;Short Term 12|Brooklyn Nine-Nine|Ice Age: Collision Course;Steph
+206;Jennifer Ellison;35.0;65.75;0;1;0;0;0;The Phantom of the Opera|The Cottage|Hotel Babylon;Jen
+207;Charlie Hunnam;38.0;72.0;1;0;0;1;1;Sons of Anarchy|Pacific Rim|King Arthur: Legend of the Sword;Charlie
+208;Jon Favreau;51.0;73.0;1;0;1;1;0;Chef|Swingers|Iron Man;John Favreau|Favs|Mark Johnstan
+209;Alicia Silverstone;41.0;65.0;0;1;0;1;0;Clueless|Batman & Robin|Blast from the Past;Queen Slice
+210;Amanda Abbington;44.0;64.0;0;1;0;0;0;Sherlock|Swinging with the Finkels|Mr Selfridge;
+211;Sara Gilbert;43.0;62.0;0;1;0;1;0;Roseanne|Poison Ivy|Sudie and Simpson;Sara Abeles
+212;Gabriel Macht;46.0;72.0;1;0;1;1;0;The Good Shepherd|The Recruit|Because I Said So;Gabriel Swann
+213;Millie Bobby Brown;14.0;64.0;0;1;0;1;0;Stranger Things|NCIS|Godzilla: King of the Monsters;Millie Brown|Millster
+214;Ellie Kemper;38.0;65.0;0;1;0;0;0;Bridesmaids|21 Jump Street|Unbreakable Kimmy Schmidt;
+215;Joel Edgerton;43.0;71.0;1;0;0;1;1;The Gift|The Great Gatsby|Loving;
+216;Denzel Washington;63.0;73.0;1;0;1;1;0;Fences|The Book of Eli|Training Day;D
+217;Steve Martin;72.0;72.0;1;0;0;0;1;Roxanne|L.A. Story|The Jerk;Pig Eye Jackson also
+218;Matt Damon;47.0;70.0;1;0;0;1;0;Good Will Hunting|The Martian|The Departed;Dickie Greenleaf
+219;Sandra Bullock;53.0;67.5;0;1;0;1;0;Miss Congeniality|The Proposal|Gravity;Sandy|America's Sweetheart|The Girl Next Door
+220;Toni Collette;45.0;68.0;0;1;0;1;0;Little Miss Sunshine|About a Boy|The Sixth Sense;
+221;Anna Hopkins;;66.0;0;1;0;1;1;Barney's Version|The Expanse|Jean of the Joneses;
+222;Nicolas Cage;54.0;73.25;1;0;0;1;0;Face/Off|Leaving Las Vegas|The Rock;Nicholas Cage|Nicolas Coppola|Nick
+223;Maggie Grace;;69.0;0;1;0;1;0;Taken|Lost|Fear the Walking Dead;
+224;Alexis Bledel;36.0;67.0;0;1;0;1;0;Gilmore Girls|The Sisterhood of the Traveling Pants|Sin City;
+225;Sylvester Stallone;71.0;69.5;1;0;0;1;1;Rocky|Rocky IV|Creed;Q Moonblood|Sly|Michael
+226;Janina Gavankar;;67.0;0;1;0;0;0;True Blood|The League|Star Wars: Battlefront II;Janina Gavanka
+227;Jonathan Tucker;36.0;70.0;1;0;0;0;0;The Virgin Suicides|The Ruins|Sleepers;Tuck|Moss
+228;Eden Sher;26.0;62.0;0;1;0;1;0;The Middle|Star vs. the Forces of Evil|Weeds;
+229;Linda Hunt;73.0;57.0;0;1;0;0;0;The Year of Living Dangerously|Pocahontas|Silverado;
+230;Aubrey Plaza;33.0;66.0;0;1;0;1;0;Safety Not Guaranteed|Dirty Grandpa|The To Do List;
+231;Timothy Granaderos;;;1;0;0;0;0;13 Reasons Why|T@gged;Tim Granaderos
+232;Amy Adams;43.0;64.0;0;1;0;1;0;Arrival|Enchanted|American Hustle;Amy Lou Adams
+233;Courtney Henggeler;36.0;69.0;0;1;0;0;0;The Big Bang Theory|Mom|Cobra Kai;
+234;Evan Peters;31.0;71.0;1;0;0;0;0;X-Men: Apocalypse|X-Men: Days of Future Past|Kick-Ass;
+235;Anna Faris;41.0;64.0;0;1;0;1;0;The House Bunny|Just Friends|Scary Movie 4;Anna Faris-Indra|Anna Faris-Pratt|Baltimore's-Best-Beautiful-Blonde
+236;Mädchen Amick;;66.0;0;1;1;1;0;Dream Lover|Twin Peaks|Twin Peaks: Fire Walk with Me;Madchen Amick
+237;Dylan Sprouse;;71.0;1;0;0;1;0;Big Daddy|The Suite Life of Zack and Cody|The Suite Life on Deck;The Sprouse Twins|Dylan Thomas Sprouse
+238;Debby Ryan;25.0;65.0;0;1;0;0;0;Insatiable|Sing It!|Jessie;Debbie Ryan|Debs
+239;Martin Freeman;46.0;66.5;1;0;0;1;0;The Hobbit: An Unexpected Journey|The Hobbit: The Desolation of Smaug|The Hobbit: The Battle of the Five Armies;
+240;Ewan McGregor;47.0;69.75;1;0;0;0;1;Moulin Rouge!|Trainspotting|August: Osage County;
+241;Linda Cardellini;42.0;63.0;0;1;0;0;0;Brokeback Mountain|Avengers: Age of Ultron|Legally Blonde;Linda Edna Cardellini
+242;James McAvoy;39.0;67.0;1;0;0;1;0;Filth|Split|Atonement;Jamesy Boy|Jimmy|Floyd
+243;Cara Delevingne;25.0;68.0;0;1;0;0;0;Suicide Squad|Paper Towns|Valerian and the City of a Thousand Planets;
+244;Danai Gurira;40.0;67.0;0;1;0;0;0;Avengers: Infinity War|Black Panther|The Visitor;
+245;Jennifer Garner;46.0;68.0;0;1;0;1;0;Alias|13 Going on 30|Daredevil;Jennifer Affleck|Jennifer
+246;Martin Short;68.0;68.0;1;0;0;1;1;Inherent Vice|The Santa Clause 3: The Escape Clause|¡Three Amigos!;Jiminy Glick|Marty|Shorty
+247;Gerard Butler;48.0;74.0;1;0;0;1;0;The Phantom of the Opera|300|Law Abiding Citizen;Gerald Butler|Gerry Butler|Gerry
+248;Ruby Rose;;67.0;0;1;0;1;1;Orange Is the New Black|Break Free|xXx: Return of Xander Cage;
+249;James Marsden;44.0;70.0;1;0;0;0;0;X-Men|Hairspray|Enchanted;Jimmy Marsden|Bello Jimmy|J. P.
+250;Laura Dern;51.0;70.5;0;1;0;1;1;Jurassic Park|Wild|Blue Velvet;
+251;Anya Taylor-Joy;22.0;68.0;0;1;0;0;0;The Witch|Morgan|Split;
+252;Gemma Arterton;32.0;67.0;0;1;0;1;0;Prince of Persia: The Sands of Time|Quantum of Solace|Clash of the Titans;
+253;Marisa Tomei;53.0;64.75;0;1;0;1;0;My Cousin Vinny|The Wrestler|In the Bedroom;
+254;Bojana Novakovic;36.0;63.5;0;1;1;0;1;Devil|Edge of Darkness|Drag Me to Hell;Bonjana Novakovic|Boyana Novakovich
+255;Nina Dobrev;;66.75;0;1;0;0;0;The Perks of Being a Wallflower|xXx: Return of Xander Cage|The Final Girls;Nina Constantinova Dobreva|Almond|Neens
+256;Kaya Scodelario;26.0;66.0;0;1;0;0;0;Pirates of the Caribbean: Dead Men Tell No Tales|The Maze Runner|The Truth About Emanuel;
+257;Saoirse Ronan;24.0;66.0;0;1;0;0;0;Hanna|Brooklyn|Atonement;Sersh
+258;Camila Mendes;;62.0;0;1;0;0;0;Riverdale|The New Romantic|Falcon Lake;Cami
+259;Emma Stone;29.0;66.0;0;1;0;1;0;La La Land|Easy A|The Help;Emily Jean Stone|Emily Stone|Riley Stone
+260;Portia de Rossi;45.0;68.0;0;1;0;0;0;Arrested Development|Cursed|Scream 2;Portia De Rossi|Portia Lee James DeGeneres|Portia Di Rossi
+261;Eva Green;37.0;67.0;0;1;0;0;0;Casino Royale|Penny Dreadful|Kingdom of Heaven;
+262;Melissa Benoist;29.0;68.0;0;1;0;0;0;Supergirl|Whiplash|Patriots Day;
+263;Camren Bicondova;19.0;62.0;0;1;0;0;0;Gotham|Girl House|Gotham Stories;
+264;Laurie Metcalf;62.0;66.5;0;1;0;0;0;Lady Bird|Scream 2|Roseanne;
+265;Prince Harry;33.0;73.25;0;0;0;0;0;Trooping the Colour|TCN Channel 9 News|BBC Six O'Clock News;HRH Prince Harry|HRH Prince Henry of Wales|HRH Prince Harry Windsor
+266;Britt Robertson;28.0;63.0;0;1;0;0;0;Tomorrowland|The First Time|Ask Me Anything;Brittany Robertson|Brit Robertson|Bee
+267;Taika Waititi;42.0;72.5;1;0;1;1;0;What We Do in the Shadows|Hunt for the Wilderpeople|Thor: Ragnarok;T. Cohen|Taika Cohen|Count Viago
+268;Michael Fishman;;71.0;1;0;0;1;0;Roseanne|A.I. Artificial Intelligence|Seinfeld;
+269;Melissa Fumero;35.0;66.0;0;1;0;0;0;I Hope They Serve Beer in Hell|Brooklyn Nine-Nine|One Life to Live;Michelle Gallo Fumero|Melissa Gallo
+270;Felicity Jones;34.0;63.0;0;1;0;1;0;Rogue One: A Star Wars Story|The Theory of Everything|Like Crazy;Ms. Felicity Jones
+271;Marilyn Monroe;;65.5;0;1;0;0;1;Some Like It Hot|The Seven Year Itch|Gentlemen Prefer Blondes;Norma Jean Baker|Norma Jeane Dougherty|Merilin Monro
+272;Shannon Woodward;;63.0;0;1;0;1;0;Westworld|Raising Hope|The Riches;Shannon Marie Woodward
+273;Jodie Foster;55.0;63.0;0;1;1;1;0;The Silence of the Lambs|Contact|The Accused;Jodi Foster|Jody Foster|Jodie F
+274;T.J. Miller;37.0;74.0;1;0;0;1;1;Silicon Valley|Cloverfield|Big Hero 6;TJ Miller
+275;Ted Levine;61.0;71.0;1;0;0;0;0;The Silence of the Lambs|Shutter Island|Wild Wild West;
+276;Sam Heughan;38.0;74.5;1;0;0;0;0;Outlander|A Princess for Christmas|Island at War;
+277;Bella Heathcote;31.0;66.0;0;1;0;0;0;The Neon Demon|In Time|Pride and Prejudice and Zombies;Isabella Heathcote
+278;Sam Humphrey;;50.0;1;0;0;0;0;The Greatest Showman|Jeremy the Dud|Neighbours;
+279;Megan Fox;32.0;64.0;0;1;0;1;1;Transformers|Teenage Mutant Ninja Turtles|Jennifer's Body;Megan Denise Fox|Mega Fox|Foxy Megan
+280;Luke Evans;39.0;72.0;1;0;0;0;0;Dracula Untold|Beauty and the Beast|Fast & Furious 6;
+281;Dakota Johnson;28.0;67.5;0;1;0;1;0;Fifty Shades of Grey|The Social Network|Fifty Shades Darker;
+282;Laverne Cox;;71.0;0;1;0;1;1;Orange Is the New Black|Musical Chairs|Grandma;
+283;Steven Spielberg;71.0;67.5;0;0;1;1;1;Schindler's List|E.T. the Extra-Terrestrial|Saving Private Ryan;Stephen Spielberg|Steve Spielberg|Spielberg
+284;Mae Whitman;29.0;62.0;0;1;0;0;0;The Perks of Being a Wallflower|The DUFF|One Fine Day;Mae Margaret Whitman
+285;Will Smith;49.0;74.0;1;0;0;1;0;The Fresh Prince of Bel-Air|I Am Legend|Men in Black;The Fresh Prince|DJ Jazzy Jeff and The Fresh Prince|Fresh Prince
+286;Jeff Goldblum;65.0;76.5;1;0;0;1;0;The Grand Budapest Hotel|Jurassic Park|The Fly;Jeff Goldberg
+287;Kristen Wiig;44.0;65.0;0;1;0;1;0;Bridesmaids|The Skeleton Twins|The Secret Life of Walter Mitty;
+288;Idris Elba;45.0;75.0;1;0;0;1;1;Beasts of No Nation|Star Trek: Beyond|Thor: Ragnarok;DJ Big Driis
+289;Adrianne Palicki;35.0;71.0;0;1;0;0;0;G.I. Joe: Retaliation|John Wick|Legion;Annie Palicki|Annie
+290;Molly Ringwald;50.0;68.0;0;1;0;0;0;Sixteen Candles|The Breakfast Club|Pretty in Pink;
+291;Jim Carrey;56.0;74.25;1;0;0;1;1;Ace Ventura: Pet Detective|The Truman Show|Eternal Sunshine of the Spotless Mind;James Carrey|Tony Clifton
+292;Holliday Grainger;30.0;61.0;0;1;0;0;0;Cinderella|My Cousin Rachel|The Finest Hours;Holly Grainger|Holliday Granger|Holly Granger
+293;Alexander Skarsgård;41.0;76.5;1;0;1;1;0;True Blood|Straw Dogs|Melancholia;Alexander Skarsgard|Alex
+294;Laura Haddock;32.0;68.0;0;1;0;0;0;Guardians of the Galaxy|Transformers: The Last Knight|Guardians of the Galaxy Vol. 2;
+295;John Goodman;65.0;74.0;1;0;0;1;0;10 Cloverfield Lane|Argo|Barton Fink;Karl Mundt
+296;Jamie Dornan;36.0;71.0;1;0;0;0;0;Fifty Shades of Grey|The Fall|Anthropoid;Sons of Jim|Jamie
+297;Ajiona Alexus;;66.0;0;1;0;0;0;13 Reasons Why|Acrimony|Breaking In;Ajiona Brown
+298;Domhnall Gleeson;35.0;73.0;1;0;0;0;1;Ex Machina|Frank|About Time;Donal Gleeson
+299;Billy Magnussen;33.0;71.0;1;0;0;0;0;Into the Woods|The Big Short|Game Night;William 'Billy' Magnussen
+300;Ella Purnell;21.0;64.0;0;1;0;0;0;Miss Peregrine's Home for Peculiar Children|Never Let Me Go|Kick-Ass 2;Elena Purnell
+301;Mark Wahlberg;46.0;68.0;1;0;0;1;0;The Departed|The Fighter|Boogie Nights;Marky Mark|Marky Mark|Monk D
+302;Molly Parker;45.0;65.0;0;1;0;1;0;Kissed|Deadwood|The Wicker Man;
+303;Musetta Vander;;68.0;0;1;0;0;0;Mortal Kombat: Annihilation|O Brother, Where Art Thou?|Wild Wild West;Musetta|Musetta van der Merwe
+304;Chris Pine;37.0;72.0;1;0;0;1;0;Star Trek|Star Trek: Beyond|Wonder Woman;Kris Pino|Peenè|Pinewood
+305;Sydney Sweeney;;63.5;0;1;0;0;0;Everything Sucks!|The Handmaid's Tale|Sharp Objects;
+306;Adam Sandler;51.0;69.75;1;0;0;1;1;The Waterboy|The Wedding Singer|Big Daddy;Sandman
+307;Justine Lupe;;;0;1;0;0;0;Mr. Mercedes|Snowfall|Madam Secretary;
+308;Keira Knightley;33.0;67.0;0;1;0;1;0;Pirates of the Caribbean: The Curse of the Black Pearl|Pride & Prejudice|Atonement;Kiera Knightley
+309;Ryan Gosling;37.0;72.5;1;0;0;1;0;Blue Valentine|La La Land|The Nice Guys;
+310;Diane Kruger;41.0;67.0;0;1;0;1;0;Inglourious Basterds|National Treasure|Unknown;Diane Heidkrüger|Diane Krüger
+311;Ilfenesh Hadera;;71.0;0;1;0;0;0;Baywatch|Old Boy|Billions;
+312;Hannah Arterton;;64.0;0;1;0;0;0;Safe|The Five|Walking on Sunshine;
+313;Sarah Chalke;41.0;68.0;0;1;0;1;0;Scrubs|Chaos Theory|Roseanne;Sarah Chalk|Chalky
+314;Rinko Kikuchi;37.0;67.0;0;1;1;0;1;Babel|Pacific Rim|The Brothers Bloom;Yuriko Kikuchi
+315;Lupita Nyong'o;35.0;65.0;0;1;0;1;0;12 Years a Slave|Star Wars: Episode VII - The Force Awakens|Black Panther;Lupita Nyongo
+316;Judy Greer;42.0;68.25;0;1;0;1;0;13 Going on 30|Ant-Man|Jurassic World;Judy Evans Greer|Greer
+317;Clint Howard;59.0;67.0;1;0;0;0;1;Apollo 13|The Waterboy|Rock 'n' Roll High School;
+318;Taron Egerton;28.0;69.0;1;0;0;0;0;Kingsman: The Secret Service|Eddie the Eagle|Kingsman: The Golden Circle;
+319;Adam Driver;34.0;74.5;1;0;0;0;0;Star Wars: Episode VII - The Force Awakens|Paterson|Inside Llewyn Davis;
+320;Mackenzie Davis;;70.0;0;1;0;1;0;Halt and Catch Fire|Black Mirror|Blade Runner 2049;Mackenzie Rio Davis
+321;Ed Skrein;35.0;73.0;1;0;1;0;1;Deadpool|Alita: Battle Angel|If Beale Street Could Talk;
+322;Timothée Chalamet;22.0;71.5;1;0;0;0;0;Call Me by Your Name|Lady Bird|Interstellar;Timothee Chalamet|Timothy Chalamet|Lil Timmy Tim
+323;Teresa Palmer;32.0;64.75;0;1;0;1;1;I Am Number Four|Lights Out|Warm Bodies;Tez|Tezza
+324;Monica Keena;39.0;61.5;0;1;0;0;0;Freddy vs. Jason|While You Were Sleeping|Crime + Punishment in Suburbia;Monica Kenna|Monikers
+325;Colin Farrell;42.0;70.0;1;0;0;1;0;The Lobster|In Bruges|S.W.A.T.;Colin Farrel|Colin J Farrell|Col Farrell
+326;Michael Fassbender;41.0;72.25;1;0;0;1;0;Shame|Prometheus|X-Men: First Class;Fassy
+327;Lee Pace;39.0;77.0;1;0;0;0;0;Guardians of the Galaxy|The Fall|The Good Shepherd;
+328;Teri Polo;49.0;67.0;0;1;0;0;0;Meet the Parents|The Arrival|Meet the Fockers;
+329;James Franco;40.0;71.0;1;0;1;1;0;127 Hours|Spring Breakers|The Disaster Artist;James Edward Franco|Ted|Teddy
+330;Sophie Turner;22.0;69.0;0;1;0;1;0;Game of Thrones|X-Men: Apocalypse|X-Men: Dark Phoenix;
+331;Jenny Mollen;;66.0;0;1;0;1;1;Kidnapping Caitlynn|My Best Friend's Girl|Crazy, Stupid, Love.;Jenny Mollen Biggs|Jenny Molen
+332;Jim Cummings;65.0;68.0;1;0;0;0;0;Winnie the Pooh|The Princess and the Frog|Shrek;Jim Jonah Cumkings|Jim Cumming|J. Jonah Cummings
+333;Samara Weaving;26.0;65.0;0;1;1;0;1;Three Billboards Outside Ebbing, Missouri|The Babysitter|Mayhem;
+334;Keala Settle;;63.0;0;1;0;0;0;The Greatest Showman|Ricki and the Flash|Hall American: Forbidden;Ti K.|Lala
+335;Lauren German;39.0;67.0;0;1;0;0;0;Hostel: Part II|The Divide|The Texas Chainsaw Massacre;
+336;Ben Affleck;45.0;75.75;1;0;0;1;1;Argo|Gone Girl|The Town;Affleck
+337;Jessica Parker Kennedy;;60.5;0;1;0;0;0;In Time|50/50|Another Cinderella Story;Jessica P. Kennedy|Jessica Kennedy Parker
+338;Rose Byrne;38.0;66.25;0;1;0;1;0;Spy|Insidious|Bridesmaids;Rosie
+339;Malin Akerman;40.0;68.0;0;1;0;1;0;Watchmen|The Final Girls|Happythankyoumoreplease;Malin|Malin Åkerman
+340;Jenna Fischer;44.0;66.0;0;1;0;1;0;The Office|The Giant Mechanical Man|Walk Hard: The Dewey Cox Story;Jenna Fisher
+341;Lena Headey;44.0;65.5;0;1;0;1;0;Game of Thrones|300|Pride and Prejudice and Zombies;Lena Heady
+342;Elizabeth Banks;44.0;64.75;0;1;1;1;0;The Hunger Games|The Hunger Games: Mockingjay - Part 1|The Hunger Games: Catching Fire;Elizabeth Casey|Elizabeth Maresal Mitchell
+343;Matthew McConaughey;48.0;72.0;1;0;0;1;0;Dallas Buyers Club|Magic Mike|Mud;M. McConaughey
+344;Paul Rudd;49.0;70.0;1;0;0;1;1;Ant-Man|I Love You, Man|The Perks of Being a Wallflower;Kenny Chin|Paul S. Rudd|Paul Stephen Rudd
+345;Kate Mara;35.0;62.0;0;1;0;1;0;Fantastic Four|Happythankyoumoreplease|Shooter;
+346;Ingrid Bolsø Berdal;38.0;68.75;0;1;0;1;0;Hercules|Cold Prey|Chernobyl Diaries;
+347;Sam Witwer;;73.0;1;0;0;0;0;The Mist|Star Wars: The Force Unleashed|Star Wars: The Clone Wars;Simon Judas Raye|Stewart
+348;William Zabka;52.0;72.5;1;0;0;1;1;The Karate Kid|Hot Tub Time Machine|The Karate Kid Part II;Billy Zabka|Billy
+349;Robert De Niro;74.0;69.75;1;0;0;1;0;Raging Bull|Cape Fear|Taxi Driver;Robert De Niro Jr.|Robâto De Nîro|Bobby DeNiro
+350;Morgan Freeman;81.0;74.0;1;0;0;1;0;Se7en|Invictus|Driving Miss Daisy;Morgan J. Freeman
+351;Ashley Johnson;;65.0;0;1;0;0;0;The Avengers|Blindspot|The Last of Us;Dasher
+352;Ellen Barkin;64.0;66.0;0;1;0;1;0;The Fan|Sea of Love|This Boy's Life;
+353;Shia LaBeouf;31.0;69.5;1;0;1;1;0;Transformers|American Honey|Fury;Shia La Beouf|Shea LaBeouf|Shia LaBuff
+354;Stanley Kubrick;;66.5;0;0;1;1;1;2001: A Space Odyssey|A Clockwork Orange|Barry Lyndon;Stanley Kubric|SK
+355;Michelle Trachtenberg;32.0;67.5;0;1;0;1;0;Buffy the Vampire Slayer|Inspector Gadget|17 Again;
+356;Jon Hamm;47.0;74.0;1;0;0;1;0;Mad Men|The Town|Million Dollar Arm;John Hamm
+357;Gina Carano;;68.0;0;1;0;1;0;Haywire|Fast & Furious 6|Deadpool;Crush|Conviction|Crush
+358;Anthony Hopkins;80.0;68.5;1;0;0;0;0;The Silence of the Lambs|Hannibal|Hitchcock;Fabian Hogarth|Sir Anthony Hopkins|Tony
+359;Emma Watson;28.0;65.0;0;1;0;1;0;The Perks of Being a Wallflower|Harry Potter and the Sorcerer's Stone|The Bling Ring;Em
+360;Kate Beckinsale;44.0;67.0;0;1;0;0;0;Underworld: Evolution|Pearl Harbor|Underworld;Kathrin Beckinsale
+361;Kylie Minogue;50.0;60.0;0;1;0;0;0;Moulin Rouge!|Street Fighter|San Andreas;Kylie|The Princess of Pop
+362;Isabela Moner;;61.0;0;1;0;0;0;Transformers: The Last Knight|100 Things to Do Before High School|Growing Up Fisher;
+363;Madelaine Petsch;;65.75;0;1;0;0;0;Riverdale;
+364;Benicio Del Toro;51.0;74.0;1;0;1;1;0;Sicario|Traffic|The Usual Suspects;Benisio Del Toro|Benicio Deltoro|Benicio del Toro
+365;Hiroyuki Sanada;57.0;66.0;1;0;0;0;0;The Twilight Samurai|The Wolverine|Sunshine;Duke Sanada|Harry Sanada|Henry Sanada
+366;Mackenzie Foy;;62.5;0;1;0;0;0;Interstellar|The Twilight Saga: Breaking Dawn - Part 2|The Little Prince;Kenzie|Kenz
+367;Arnold Schwarzenegger;70.0;74.0;1;0;1;1;0;Terminator 2|True Lies|Predator;Arnold Strong 'Mr. Universe'|Arnold|Gov Arnold Schwarzenegger
+368;Bella Thorne;20.0;68.0;0;1;0;1;0;The DUFF|Blended|Scream: The TV Series;
+369;Jewel Staite;;66.0;0;1;0;1;0;Firefly|Serenity|Blindspot;Jewel Straite
+370;Rose McGowan;44.0;64.0;0;1;0;1;0;Planet Terror|Grindhouse|Charmed;Rose McGowen
+371;Christopher Lee;;77.0;1;0;0;1;0;Star Wars: Episode II - Attack of the Clones|The Lord of the Rings: The Two Towers|The Lord of the Rings: The Fellowship of the Ring;Chris Lee|Cristopher Lee|Sir Christopher Lee
+372;Lindsey Morgan;28.0;65.0;0;1;0;0;0;General Hospital|The 100|Beyond Skyline;Lindsey Marie Morgan
+373;Jeffrey Dean Morgan;52.0;74.0;1;0;0;1;0;Watchmen|The Losers|Red Dawn;Jeff Morgan|Jeff|McNaughty
+374;Ralph Macchio;56.0;68.5;1;0;1;1;0;The Karate Kid|The Karate Kid Part III|The Outsiders;
+375;Jane Fonda;80.0;68.0;0;1;0;1;0;Klute|Barbarella|Youth;Hanoi Jane|J.Fo
+376;Alicia Goranson;43.0;65.0;0;1;0;0;0;Boys Don't Cry|Roseanne|Fringe;Lecy Goranson|Lecy
+377;Pam Grier;69.0;68.0;0;1;0;0;1;Jackie Brown|Escape from L.A.|Ghosts of Mars;Pam Greer|Pamela Grier
+378;Alessandra Torresani;;63.5;0;1;0;1;0;The Big Bang Theory|American Horror Story|Caprica;Alessandra Toreson
+379;Mark Hamill;66.0;69.0;1;0;0;1;0;Star Wars: Episode IV - A New Hope|Star Wars: Episode V - The Empire Strikes Back|Star Wars: Episode VI - Return of the Jedi;?|Mark Hamil|Mark
+380;Tom Ellis;39.0;75.0;1;0;0;0;0;Lucifer|Miranda|Buffalo Soldiers;
+381;Daniel Radcliffe;28.0;65.0;1;0;0;1;0;Harry Potter and the Deathly Hallows: Part 2|Swiss Army Man|Harry Potter and the Deathly Hallows: Part 1;Daniel Jacob Radcliffe|Dan Radcliffe|Daniel Ratfink
+382;Olivia Wilde;34.0;67.0;0;1;1;1;0;TRON: Legacy|The Incredible Burt Wonderstone|The Lazarus Effect;
+383;Rachel Weisz;48.0;66.0;0;1;0;1;0;The Constant Gardener|The Lobster|The Mummy Returns;Kenya Campbell|Rachael Weisz
+384;Steve Carell;55.0;69.0;1;0;0;1;1;The Office|The 40-Year-Old Virgin|Foxcatcher;Steven Carel|Steve Carel|Steven Carell
+385;Brendan Fraser;49.0;75.0;1;0;0;1;0;The Mummy|Crash|The Mummy Returns;Brendon Fraser
+386;Allison Mack;35.0;65.0;0;1;1;1;0;Smallville|The Ant Bully|Honey, We Shrunk Ourselves!;
+387;Jeremy Renner;47.0;69.0;1;0;0;1;0;The Hurt Locker|The Town|The Avengers;Renni
+388;Cara Gee;;;0;1;0;0;0;Empire of Dirt|The Expanse|The Carmilla Movie;
+389;Toby Stephens;49.0;71.0;1;0;1;0;0;Die Another Day|The Machine|13 Hours;
+390;Jake Johnson;40.0;69.5;1;0;0;1;1;New Girl|Jurassic World|Safety Not Guaranteed;Jake M. Johnson
+391;Emily Bett Rickards;;65.0;0;1;0;0;0;Arrow|Brooklyn|The Flash;Emily Rickards
+392;Michelle Monaghan;42.0;67.0;0;1;0;1;0;Pixels|Kiss Kiss Bang Bang|Gone Baby Gone;
+393;Andy Samberg;39.0;69.5;1;0;0;1;0;Saturday Night Live|Popstar: Never Stop Never Stopping|That's My Boy;Ardy|The Dudes|The Lonely Island
+394;Nicole Kidman;50.0;71.0;0;1;0;1;0;Moulin Rouge!|The Others|The Hours;Nic
+395;Jason Statham;50.0;70.0;1;0;0;1;0;Crank|Furious 7|Spy;Jay|The Stath
+396;Joseph Mazzello;34.0;69.0;1;0;1;0;1;Jurassic Park|The Social Network|The Cure;Joe Mazello|Joe Mazzello|Joe
+397;Elodie Yung;;67.0;0;1;0;0;0;The Girl with the Dragon Tattoo|Daredevil|The Hitman's Bodyguard;Élodie Yung
+398;Scout Taylor-Compton;29.0;63.0;0;1;0;0;0;Halloween|Halloween II|The Runaways;Scout Taylor Compton|Pouty Scouty
+399;Camila Morrone;20.0;;0;1;0;0;0;Death Wish|Bukowski|Never Goin' Back;
+400;Michael Shannon;43.0;75.5;1;0;0;1;0;Midnight Special|The Shape of Water|Take Shelter;Mike Shannon|Mike
+401;Pablo Schreiber;40.0;77.0;1;0;0;1;0;13 Hours|Orange Is the New Black|Den of Thieves;Pablo T. Schreiber
+402;Krysten Ritter;;69.0;0;1;0;1;1;Jessica Jones|Big Eyes|Don't Trust the B---- in Apartment 23;
+403;Vanessa Bayer;36.0;66.0;0;1;0;0;1;Trainwreck|Saturday Night Live|Office Christmas Party;
+404;Brandon Larracuente;23.0;72.0;1;0;0;0;0;13 Reasons Why|Bloodline|Bright;
+405;Gemma Chan;;68.0;0;1;0;0;0;Humans|Captain Marvel|Mary Queen of Scots;
+406;Rose McIver;29.0;64.0;0;1;0;1;0;The Lovely Bones|iZombie|Petals on the Wind;Rose Mciver
+407;Ethan Hawke;47.0;71.0;1;0;1;0;1;Training Day|Before Sunrise|Before Midnight;E. Hawke
+408;Anna Kendrick;32.0;62.0;0;1;0;0;0;Up in the Air|Pitch Perfect|Pitch Perfect 2;
+409;Jacob Tremblay;11.0;56.0;1;0;0;0;0;Room|Wonder|Before I Wake;Jake
+410;Michael Cera;29.0;68.5;1;0;0;1;0;Superbad|Scott Pilgrim vs. the World|Juno;Michael Céra|Mike
+411;Shantel VanSanten;;68.25;0;1;0;0;0;Shooter|One Tree Hill|The Flash;Shantel Van Santen|Shantel Vansanten
+412;Mina Sundwall;;66.0;0;1;0;0;0;Lost in Space|Maggie's Plan|#Horror;Mina De Julis
+413;Renée Zellweger;49.0;63.0;0;1;0;1;0;Chicago|Cold Mountain|Jerry Maguire;Rene Zellverger|Renee Zellweger|Renee Zellwegger
+414;Rachel Brosnahan;27.0;63.5;0;1;0;1;0;House of Cards|The Marvelous Mrs. Maisel|Patriots Day;
+415;Mary Steenburgen;65.0;68.0;0;1;0;1;0;Last Vegas|Step Brothers|Back to the Future Part III;Mary and Ted
+416;Liam Neeson;65.0;76.0;1;0;0;1;0;Kinsey|Schindler's List|The Grey;
+417;Katee Sackhoff;38.0;66.0;0;1;0;1;1;Battlestar Galactica|Riddick|Oculus;Katee Sachoff
+418;Abbie Cornish;35.0;68.0;0;1;0;0;0;Three Billboards Outside Ebbing, Missouri|Candy|Seven Psychopaths;Dusk|MC Dusk
+419;Vera Farmiga;44.0;67.0;0;1;0;1;0;Up in the Air|The Departed|Orphan;
+420;Keir Dullea;82.0;73.0;1;0;0;0;0;2001: A Space Odyssey|David and Lisa|2010;
+421;Ed Harris;67.0;69.0;1;0;1;1;0;The Truman Show|Appaloosa|Apollo 13;The Voice
+422;Rose Leslie;31.0;66.0;0;1;0;0;0;The Last Witch Hunter|Honeymoon|Game of Thrones;
+423;Archie Panjabi;;63.0;0;1;0;1;0;I Origins|San Andreas|A Good Year;Archie Panabi
+424;Andy Garcia;62.0;70.25;1;0;0;1;0;Ocean's Eleven|The Godfather: Part III|The Lost City;Andy Arthur|Andres Garcia
+425;Emily Browning;29.0;62.0;0;1;0;0;0;A Series of Unfortunate Events|Sucker Punch|Pompeii;Emily Jane Browning|Em
+426;Martha Higareda;;63.0;0;1;0;1;1;Altered Carbon|No Manches Frida|McFarland, USA;
+427;Juno Temple;28.0;62.0;0;1;0;0;0;Atonement|Mr. Nobody|Maleficent;
+428;Noomi Rapace;38.0;64.25;0;1;0;1;0;The Girl with the Dragon Tattoo|Prometheus|Sherlock Holmes: A Game of Shadows;Noomi Noren|Noomi Norén
+429;Salma Hayek;51.0;62.0;0;1;0;1;0;Frida|Desperado|Wild Wild West;Salma Hayek-Pinault|Hayek|Salma Hayek Pinault
+430;Reese Witherspoon;42.0;61.5;0;1;0;1;0;Wild|Legally Blonde|Election;Reese|Riz Uizerspun
+431;Marie Avgeropoulos;31.0;65.0;0;1;0;0;0;Tracers|Hunt to Kill|50/50;
+432;Christina Ochoa;;70.0;0;1;0;1;1;Animal Kingdom|Blood Drive|A Million Little Things;Christina Ochoa Lopez|Christina Ochoa-Lopez
+433;Daniel Craig;50.0;70.0;1;0;0;1;0;Casino Royale|Skyfall|Spectre;
+434;Sarah Paulson;43.0;66.0;0;1;0;1;0;12 Years a Slave|Carol|Martha Marcy May Marlene;
+435;Kate McKinnon;34.0;63.5;0;1;0;0;1;Ghostbusters|Saturday Night Live|Rough Night;
+436;Sean Connery;87.0;74.0;1;0;0;1;0;The Rock|The Untouchables|Goldfinger;Sir Sean Connery|Big Tam
+437;Gary Oldman;60.0;68.5;1;0;0;1;0;Tinker Tailor Soldier Spy|Darkest Hour|The Dark Knight;Maurice Escargot|Gary von Oldman|Gaz
+438;Dylan O'Brien;26.0;71.0;1;0;0;0;0;Teen Wolf|The Maze Runner|Maze Runner: The Scorch Trials;
+439;Monica Bellucci;53.0;67.5;0;1;0;0;0;Malèna|The Matrix Reloaded|Brotherhood of the Wolf;Bellucci|visitor of Bianca
+440;Vin Diesel;50.0;71.75;1;0;1;1;0;Guardians of the Galaxy|The Fast and the Furious|Furious 7;Groot|Mark Vincent
+441;Kirsten Dunst;36.0;66.0;0;1;1;1;0;Spider-Man|Melancholia|Interview with the Vampire: The Vampire Chronicles;Kiki
+442;Vincent D'Onofrio;58.0;76.0;1;0;0;1;0;Men in Black|Full Metal Jacket|Jurassic World;Vincent Philip D'Onofrio|Vincent Phillip D'Onofrio|Vin D'Onofrio
+443;Mel Gibson;62.0;69.75;1;0;1;1;0;Braveheart|Lethal Weapon 3|Ransom;
+444;Justin Theroux;46.0;69.0;1;0;0;1;1;Mulholland Drive|American Psycho|The Girl on the Train;
+445;Timothy Olyphant;50.0;72.0;1;0;0;1;0;Justified|A Perfect Getaway|The Crazies;Tim Olyphant|Olyphantastic
+446;Scott Speedman;42.0;71.0;1;0;0;0;0;Underworld|The Strangers|Underworld: Evolution;
+447;Richard Armitage;;74.5;1;0;0;0;0;The Hobbit: An Unexpected Journey|The Hobbit: The Battle of the Five Armies|The Hobbit: The Desolation of Smaug;
+448;Michelle Pfeiffer;60.0;67.5;0;1;0;1;0;One Fine Day|What Lies Beneath|Dangerous Minds;Michele Pfeiffer
+449;Bradley Cooper;43.0;73.0;1;0;0;1;0;Silver Linings Playbook|American Sniper|American Hustle;Coop
+450;Andrew Lincoln;44.0;70.0;1;0;1;0;0;The Walking Dead|Love Actually|Teachers;Andy
+451;Maggie Siff;43.0;66.0;0;1;0;1;0;Push|Leaves of Grass|The 5th Wave;
+452;Daniel Brühl;39.0;69.5;1;0;0;1;0;Good Bye Lenin!|Rush|Inglourious Basterds;Daniel Bruehl|Fredrick Zoller
+453;Jamie Foxx;50.0;69.0;1;0;0;1;1;Django Unchained|Ray|Collateral;Eric Bishop
+454;Jared Leto;46.0;69.0;1;0;0;1;0;Dallas Buyers Club|Suicide Squad|Requiem for a Dream;Bartholomew Cubbins|30 Seconds to Mars|Thirty Seconds to Mars
+455;Rob Delaney;41.0;75.0;1;0;0;1;1;Deadpool 2|Catastrophe|Burning Love;
+456;Jack Kesy;;73.75;1;0;0;1;0;12 Strong|Baywatch|Death Wish;
+457;George Clooney;57.0;71.0;1;0;1;1;0;Up in the Air|The Ides of March|Syriana;Gorgeous George
+458;Brandon Butler;;;1;0;0;0;0;13 Reasons Why;
+459;Clayne Crawford;;72.0;1;0;1;1;0;A Walk to Remember|The Baytown Outlaws|Lethal Weapon;Joey Crawford|William Westhoven
+460;Samuel L. Jackson;69.0;74.5;1;0;0;1;0;Pulp Fiction|The Hateful Eight|Snakes on a Plane;Samuel Jackson|Sam Jackson|Sam
+461;Dominic West;48.0;72.0;1;0;1;1;0;The Wire|Chicago|Punisher: War Zone;
+462;Lochlyn Munro;;71.0;1;0;0;1;0;Riverdale|White Chicks|Unforgiven;Locklyn Munro|Rick Munro|Lochlyn Munroe
+463;Pauley Perrette;;70.0;0;1;1;1;0;NCIS|Almost Famous|Superman vs. The Elite;"Pauley P.|""P"""
+464;Jessica Walter;77.0;68.0;0;1;0;0;0;Arrested Development|Archer|Play Misty for Me;Ross & Jessica
+465;Alison Doody;51.0;69.0;0;1;0;0;0;Indiana Jones and the Last Crusade|A View to a Kill|A Prayer for the Dying;
+466;Madeline Brewer;;63.0;0;1;0;1;0;The Handmaid's Tale|Hemlock Grove|Orange Is the New Black;Maddie
+467;Val Kilmer;58.0;71.75;1;0;0;1;0;The Doors|The Saint|Kiss Kiss Bang Bang;
+468;Al Pacino;78.0;67.0;1;0;1;0;0;Serpico|The Godfather|Dog Day Afternoon;Sonny
+469;Taylor Russell;;64.5;0;1;0;0;0;Lost in Space;Taylor Russell McKenzie|Taylor McKenzie|Russ
+470;Danielle Panabaker;30.0;67.0;0;1;0;1;0;The Flash|Sky High|Friday the 13th;Grace
+471;Kristen Stewart;28.0;65.0;0;1;1;0;0;Snow White and the Huntsman|The Twilight Saga: Breaking Dawn - Part 2|The Twilight Saga: Breaking Dawn - Part 1;Kris|KStew|Stew
+472;Dan Stevens;35.0;72.0;1;0;0;1;0;Downton Abbey|The Guest|Beauty and the Beast;
+473;Kristen Bell;37.0;61.0;0;1;0;1;0;Frozen|Veronica Mars|Forgetting Sarah Marshall;K-Bell|Annie|KB
+474;Cobie Smulders;36.0;68.0;0;1;0;0;0;The Avengers|Safe Haven|Avengers: Age of Ultron;
+475;Anton Yelchin;;69.0;1;0;0;0;0;Star Trek|Green Room|Like Crazy;Anton
+476;Milo Ventimiglia;40.0;69.0;1;0;1;1;0;Heroes|Pathology|Killing Season;Mi
+477;Alycia Debnam-Carey;;65.0;0;1;0;0;0;Into the Storm|Fear the Walking Dead|The Devil's Hand;Alycia Debnam Carey
+478;Matilda Anna Ingrid Lutz;;66.5;0;1;0;0;0;Rings|Summertime|L'Universale;Matilda Lutz
+479;Milla Jovovich;42.0;68.0;0;1;0;0;0;The Fifth Element|Resident Evil: Afterlife|The Fourth Kind;Milla|Milla Yovovich
+480;River Phoenix;;70.0;1;0;0;0;0;My Own Private Idaho|Stand by Me|The Mosquito Coast;River|Rio|Riv
+481;Karen Allen;66.0;65.0;0;1;1;0;0;Raiders of the Lost Ark|Indiana Jones and the Kingdom of the Crystal Skull|Starman;
+482;Sean Young;58.0;68.0;0;1;1;0;0;Blade Runner|No Way Out|Ace Ventura: Pet Detective;
+483;Jennifer Morrison;39.0;65.5;0;1;1;1;0;House|Once Upon a Time|Star Trek;Jenny Morrison|Jen|J-mo
+484;Skeet Ulrich;48.0;72.0;1;0;1;1;0;Scream|The Craft|Into the West;Chester|Skeeter|Mosquito
+485;Winona Ryder;46.0;63.5;0;1;0;1;0;Little Women|Girl, Interrupted|Alien: Resurrection;Wynona Ryder|Noni
+486;Taylor Kitsch;37.0;71.5;1;0;1;0;1;X-Men Origins: Wolverine|Battleship|John Carter;
+487;Elisabeth Harnois;39.0;64.75;0;1;0;0;0;Keith|Ten Inch Hero|Adventures in Wonderland;Elizabeth Harnois
+488;Léa Seydoux;32.0;66.0;0;1;0;0;0;Blue Is the Warmest Color|Spectre|The Grand Budapest Hotel;
+489;Allison Miller;;62.0;0;1;0;0;0;17 Again|Incorporated|Terra Nova;
+490;Johnny Knoxville;47.0;73.0;1;0;0;1;1;Bad Grandpa|The Dukes of Hazzard|The Ringer;P.J. Clapp|PJ Clapp|Phillip John
+491;Tom Welling;41.0;75.0;1;0;1;1;0;Smallville|Cheaper by the Dozen|Draft Day;T. Welling
+492;Alanna Ubach;42.0;63.0;0;1;0;1;0;Girlfriends' Guide to Divorce|Meet the Fockers|Waiting...;Alana Ubach
+493;Dove Cameron;;62.0;0;1;0;0;0;Descendants|Hairspray Live!|Agents of S.H.I.E.L.D.;Dovelin|Dovey|Chlo
+494;Lucy Punch;40.0;68.0;0;1;0;0;0;Into the Woods|Bad Teacher|Ella Enchanted;
+495;Jessica Biel;36.0;67.0;0;1;0;1;0;The Illusionist|Next|The Texas Chainsaw Massacre;Jesse
+496;Chyler Leigh;36.0;66.75;0;1;0;1;0;Not Another Teen Movie|Brake|Grey's Anatomy;
+497;Aaron Taylor-Johnson;27.0;71.0;1;0;0;0;1;Kick-Ass|Nocturnal Animals|Nowhere Boy;Aaron Johnson
+498;Jennifer Love Hewitt;39.0;62.0;0;1;0;1;0;I Know What You Did Last Summer|The Tuxedo|Heartbreakers;Jennifer 'Love' Hewitt|Jennifer Hewitt|Love Hewitt
+499;Lily Collins;29.0;65.0;0;1;0;0;0;The Mortal Instruments: City of Bones|Love, Rosie|Mirror Mirror;
+500;Hart Denton;;;1;0;0;0;0;Riverdale|Lethal Weapon|Fun Mom Dinner;
+501;John Travolta;64.0;74.0;1;0;0;1;0;Battlefield Earth|Face/Off|Pulp Fiction;
+502;Charlyne Yi;32.0;63.0;0;1;0;0;1;This Is 40|Knocked Up|Cloverfield;
+503;Sarah Rafferty;45.0;69.0;0;1;0;1;0;Suits|Tremors|Samantha Who?;
+504;Catherine Corcoran;26.0;66.0;0;1;0;1;0;Return to Nuke 'Em High Volume 1|Chuck|Terrifier;
+505;Jimmi Simpson;;71.5;1;0;0;0;0;Date Night;Jim-ster
+506;Pete Davidson;24.0;75.0;1;0;0;1;0;Trainwreck|School Dance|Saturday Night Live;
+507;Karl Urban;45.0;73.0;1;0;0;0;0;Star Trek|The Lord of the Rings: The Two Towers|The Lord of the Rings: The Return of the King;
+508;Bryce Cass;;63.0;1;0;0;0;0;The Guardian|Battle Los Angeles|Line of Duty;
+509;Tricia Helfer;44.0;70.5;0;1;0;1;0;Battlestar Galactica|Burn Notice|Dark Blue;
+510;Emily VanCamp;32.0;68.0;0;1;0;0;0;Revenge|Brothers & Sisters|Captain America: Civil War;Emily Van Camp|Emily Vancamp
+511;Harvey Weinstein;66.0;72.0;1;0;0;1;1;Shakespeare in Love|The Lord of the Rings: The Fellowship of the Ring|The Great Debaters;Harvey|Harvey Scissorhands|The Punisher.
+512;Mary-Louise Parker;53.0;67.5;0;1;0;0;0;Weeds|RED|Angels in America;Mary Louise Parker|Moore and Parker
+513;Denis Villeneuve;50.0;71.75;0;0;1;0;1;Blade Runner 2049|Arrival|Incendies;
+514;Meryl Streep;68.0;66.0;0;1;0;1;0;Out of Africa|The Devil Wears Prada|August: Osage County;
+515;Joaquin Phoenix;43.0;68.25;1;0;0;1;0;Walk the Line|Her|Gladiator;Leaf Phoenix|Kitten|Joaq
+516;Julia Roberts;50.0;68.0;0;1;0;1;0;Pretty Woman|Erin Brockovich|My Best Friend's Wedding;Jules
+517;Leslie Uggams;75.0;66.0;0;1;0;0;0;Deadpool|Deadpool 2|Roots;
+518;Christina Ricci;38.0;61.0;0;1;0;1;0;Casper|Addams Family Values|Buffalo '66;Squant
+519;Rosario Dawson;39.0;67.0;0;1;0;1;0;Rent|Seven Pounds|Eagle Eye;Rosario
+520;Toby Kebbell;35.0;74.0;1;0;0;0;0;Dawn of the Planet of the Apes|Dead Man's Shoes|Fantastic Four;
+521;Lacey Chabert;35.0;62.0;0;1;0;1;0;Mean Girls|Lost in Space|Not Another Teen Movie;Lacy Chabert|Esmeralda Belle Jané
+522;Tao Okamoto;33.0;69.75;0;1;0;0;0;The Wolverine|Batman v Superman: Dawn of Justice|Hannibal;
+523;David Tennant;47.0;73.0;1;0;1;0;0;Doctor Who|Jessica Jones|Fright Night;
+524;Abigail Breslin;22.0;61.0;0;1;0;0;0;Little Miss Sunshine|August: Osage County|Definitely, Maybe;Abbie
+525;Kevin Costner;63.0;73.0;1;0;0;1;0;The Postman|Robin Hood: Prince of Thieves|Dances with Wolves;
+526;Lucy Liu;49.0;63.0;0;1;1;1;0;Kill Bill: Vol. 1|Charlie's Angels|Chicago;Lucy Alexis Liu|Lucy Lui
+527;Connie Nielsen;52.0;70.5;0;1;0;0;0;Gladiator|One Hour Photo|Basic;Connie Inge-Lise Nielsen|Connie Nielson
+528;Doug Jones;58.0;75.5;1;0;0;1;0;Hellboy II: The Golden Army|The Shape of Water|Pan's Labyrinth;Doug A. Jones|Dougie
+529;Katherine Waterston;;71.5;0;1;0;1;0;Inherent Vice|Fantastic Beasts and Where to Find Them|Alien: Covenant;
+530;Rashida Jones;42.0;64.0;0;1;0;1;0;Parks and Recreation|Celeste & Jesse Forever|The Social Network;Rash or Rashi
+531;Katie Cassidy;;67.5;0;1;0;0;0;A Nightmare on Elm Street|Click|Arrow;Bug|K
+532;Elsa Pataky;41.0;63.5;0;1;0;1;0;Fast & Furious 6|Fast Five|Snakes on a Plane;Elsa Pataki
+533;Kyle Chandler;52.0;73.0;1;0;1;1;0;Argo|Super 8|Friday Night Lights;
+534;Carrie Coon;;65.0;0;1;0;1;0;Gone Girl|The Post|Avengers: Infinity War;
+535;Chelsea Peretti;40.0;66.0;0;1;0;0;1;Parks and Recreation|Brooklyn Nine-Nine|Game Night;
+536;Megalyn Echikunwoke;;66.5;0;1;0;1;0;House of Lies|24|That '70s Show;Megalyn E.K.|Magalyn Echikunwoke|Megalyn E.K.
+537;Sterling K. Brown;;72.0;1;0;0;0;0;This Is Us|American Crime Story|Army Wives;Sterling Brown
+538;Amanda Schull;;65.0;0;1;0;0;0;12 Monkeys|Suits|Pretty Little Liars;Amanda Schul
+539;Patrick J. Adams;36.0;72.0;1;0;1;1;0;Suits|Old School|6 Month Rule;Patrick J Adams|Patrick Adams
+540;Catherine Keener;59.0;68.0;0;1;0;1;0;Capote|Being John Malkovich|The 40-Year-Old Virgin;
+541;Rosa Salazar;32.0;64.0;0;1;1;0;1;Maze Runner: The Scorch Trials|Maze Runner: The Death Cure|Alita: Battle Angel;Rosa Bianca Salazar
+542;Ellen Page;31.0;61.0;0;1;0;1;0;Juno|Inception|Hard Candy;Ellen Philpotts Page|Ellen Philpotts-Page|The Tiny Canadian
+543;Kaitlyn Dever;21.0;63.0;0;1;0;0;0;Detroit|Short Term 12|Justified;
+544;Aimee Garcia;;62.0;0;1;0;1;0;Dexter|RoboCop|Trauma;Amy Garcia
+545;Laura Prepon;38.0;70.0;0;1;1;0;0;Orange Is the New Black|That '70s Show|Karla;Luara Prepon|Pre|Snaps
+546;Armie Hammer;31.0;77.0;1;0;0;0;0;The Social Network|Call Me by Your Name|The Lone Ranger;Arnie Hammer
+547;Lance Henriksen;78.0;70.5;1;0;0;0;0;Aliens|Hard Target|The Terminator;Lance Hendrickson|Lance Henricksen
+548;Ben Barnes;36.0;72.0;1;0;0;0;0;The Chronicles of Narnia: Prince Caspian|The Big Wedding|The Chronicles of Narnia: The Voyage of the Dawn Treader;Hyrise
+549;Eliza Taylor;28.0;65.0;0;1;0;0;0;The 100|Neighbours|The November Man;Eliza Cotter|Elizer Taylor|Eliza Taylor-Cotter
+550;Jenny Slate;36.0;64.0;0;1;0;0;1;Zootopia|Obvious Child|The Secret Life of Pets;
+551;Raquel Welch;77.0;66.0;0;1;0;1;0;The Three Musketeers|The Last of Sheila|Hannie Caulder;Racquel Welch|Miss Fairest of the Fair|Miss La Jolla
+552;Marisol Nichols;;64.0;0;1;0;1;0;Riverdale|NCIS|Felon;
+553;Scott Eastwood;;71.0;1;0;0;1;0;Suicide Squad|The Fate of the Furious|The Longest Ride;Scott Reeves
+554;Jane Krakowski;49.0;64.5;0;1;0;0;0;30 Rock|Ally McBeal|National Lampoon's Vacation;
+555;Elizabeth Perkins;57.0;68.0;0;1;0;0;0;Weeds|Miracle on 34th Street|Big;
+556;Rodrigo Santoro;42.0;74.5;1;0;0;1;0;300|The 33|Love Actually;
+557;Haley Joel Osment;;66.0;1;0;0;1;0;The Sixth Sense|A.I. Artificial Intelligence|Pay It Forward;Haley Osment|HJO
+558;Jon Bernthal;41.0;71.0;1;0;0;0;0;The Wolf of Wall Street|Baby Driver|Fury;
+559;Genesis Rodriguez;30.0;65.0;0;1;0;0;0;Man on a Ledge|Big Hero 6|Hours;Génesis Rodríguez
+560;Laura Harrier;28.0;69.5;0;1;0;0;0;Spider-Man: Homecoming|The Last Five Years|4th Man Out;
+561;Josh Hutcherson;25.0;67.0;1;0;0;1;0;The Hunger Games|The Hunger Games: Catching Fire|The Hunger Games: Mockingjay - Part 2;JHutch|Hutch
+562;Zoë Kravitz;29.0;61.0;0;1;0;0;0;Mad Max: Fury Road|X-Men: First Class|Divergent;Zoe Kravitz|Zoë Isabella Kravitz
+563;Uma Thurman;48.0;71.0;0;1;0;0;1;Kill Bill: Vol. 1|Kill Bill: Vol. 2|Pulp Fiction;U
+564;Hugo Weaving;58.0;74.0;1;0;0;1;0;The Lord of the Rings: The Return of the King|V for Vendetta|The Lord of the Rings: The Fellowship of the Ring;
+565;Haley Bennett;30.0;68.0;0;1;0;1;0;The Magnificent Seven|The Girl on the Train|Music and Lyrics;Halo|Hales
+566;Jacinda Barrett;;70.0;0;1;0;0;0;Poseidon|Ladder 49|The Last Kiss;
+567;Zulay Henao;39.0;65.0;0;1;0;0;0;Boy Wonder|Fighting|Takers;
+568;Robin Williams;;67.0;1;0;0;0;1;Mrs. Doubtfire|Good Morning, Vietnam|Good Will Hunting;Marty Fromage|Sudy Nim|Robin
+569;Anna Paquin;35.0;64.0;0;1;0;1;0;The Piano|X-Men|X-Men 2;
+570;Jaimie Alexander;34.0;69.0;0;1;0;0;0;Thor|Thor: The Dark World|The Last Stand;Jamie Alexander|James
+571;Kelly Reilly;40.0;66.0;0;1;0;1;0;Flight|Pride & Prejudice|Eden Lake;Keilly Reilly
+572;Kylie Bunbury;29.0;68.0;0;1;0;0;0;Pitch|Game Night|Under the Dome;
+573;Ben Whishaw;37.0;69.0;1;0;0;0;0;Perfume: The Story of a Murderer|Cloud Atlas|The Lobster;Ben Wishaw
+574;Eiza González;28.0;68.25;0;1;0;0;0;Baby Driver|Alita: Battle Angel;Eiza Gonzalez
+575;Samantha Mathis;48.0;65.0;0;1;0;0;0;American Psycho|Super Mario Bros.|The Punisher;Sammy
+576;Holly Taylor;20.0;63.0;0;1;0;1;0;The Americans|The Witch Files|Worst Friends;
+577;Derek Luke;44.0;71.0;1;0;0;0;0;Antwone Fisher|Glory Road|Captain America: The First Avenger;
+578;Allison Williams;30.0;65.75;0;1;0;0;1;Girls|Peter Pan Live!|Get Out;
+579;Shohreh Aghdashloo;66.0;65.0;0;1;0;1;0;House of Sand and Fog|Star Trek: Beyond|The Stoning of Soraya M.;Shoreh Aghdashloo|Shohreh|Shohreh Vaziri
+580;Neve Campbell;;65.5;0;1;0;1;0;Scream 2|Scream|Scream 3;Chole
+581;Katherine Heigl;39.0;69.0;0;1;0;1;0;One for the Money|Knocked Up|The Ugly Truth;Katherine M. Heigl|Katie
+582;Blake Jenner;25.0;73.0;1;0;0;1;0;The Edge of Seventeen|Everybody Wants Some!!|Glee;
+583;Kaley Cuoco;32.0;66.0;0;1;0;1;0;The Big Bang Theory|The Wedding Ringer|8 Simple Rules;Kaley Cuoco-Sweeting
+584;Sam Rockwell;49.0;68.0;1;0;0;1;0;Moon|Three Billboards Outside Ebbing, Missouri|Seven Psychopaths;
+585;Jennifer Carpenter;38.0;68.5;0;1;0;1;0;Dexter|The Exorcism of Emily Rose|Quarantine;
+586;Sophia Bush;35.0;64.0;0;1;1;1;0;John Tucker Must Die|The Hitcher|One Tree Hill;Soph|Sophie
+587;Eleanor Tomlinson;26.0;67.5;0;1;0;0;0;Jack the Giant Slayer|The Illusionist|Poldark;
+588;Paz de la Huerta;33.0;68.0;0;1;0;0;0;Enter the Void|A Walk to Remember|The Cider House Rules;Paz De La Huerta
+589;Robin Wright;52.0;66.0;0;1;1;1;0;Forrest Gump|Beowulf|Unbreakable;Robin Wright Penn|Robin Wright-Penn
+590;Ben Feldman;;68.0;1;0;1;0;1;Friday the 13th|The Perfect Man|As Above, So Below;
+591;Willow Shields;18.0;63.0;0;1;0;0;0;The Hunger Games|The Hunger Games: Catching Fire|The Hunger Games: Mockingjay - Part 2;
+592;Q'orianka Kilcher;28.0;63.5;0;1;0;1;0;The New World|Sons of Anarchy|The Alienist;Q'Orianka|Q
+593;Stephanie Allynne;31.0;;0;1;0;1;1;In a World...|One Mississippi|Twin Peaks;Stephanie Allyne|Stephanie Allynne Notaro
+594;Lizzy Caplan;35.0;64.0;0;1;0;1;0;Cloverfield|Mean Girls|Hot Tub Time Machine;
+595;Daniel Kaluuya;29.0;68.5;1;0;0;0;1;Get Out|Black Panther|Sicario;
+596;Gina Rodriguez;33.0;63.5;0;1;0;1;0;Deepwater Horizon|Jane the Virgin|Annihilation;Cutz
+597;Elizabeth Gillies;24.0;67.0;0;1;0;0;0;Victorious|Sex & Drugs & Rock & Roll|Vacation;Liz Gillies|Liz
+598;Rooney Mara;33.0;63.0;0;1;0;0;0;The Girl with the Dragon Tattoo|Carol|The Social Network;Bree Daniel|Patricia Mara|Tricia Mara
+599;Penélope Cruz;44.0;66.0;0;1;0;1;0;Vicky Cristina Barcelona|Vanilla Sky|Pirates of the Caribbean: On Stranger Tides;Penelope Cruz|Penelope Cruz Sanchez|Penelope Cruz Sánchez
+600;Gustaf Skarsgård;37.0;75.0;1;0;1;0;1;Patrik, Age 1.5|Kon-Tiki|The Invisible;Gustav Skarsgård
+601;Cameron Diaz;45.0;68.5;0;1;0;1;0;There's Something About Mary|Charlie's Angels|Vanilla Sky;Cameron Díaz|Cami
+602;Martin Scorsese;75.0;64.0;1;0;1;1;0;Taxi Driver|Goodfellas|Mean Streets;Martin Scorcese|Marty Scorsese|Marty
+603;Emma Roberts;27.0;62.0;0;1;0;1;0;We're the Millers|Aquamarine|Nerve;Emma Rose Roberts|Em
+604;Sandra Oh;46.0;65.0;0;1;0;1;0;Grey's Anatomy|Sideways|Under the Tuscan Sun;
+605;Gabrielle Union;45.0;67.5;0;1;0;1;0;Bring It On|Bad Boys II|10 Things I Hate About You;Gabrielle M. Union
+606;Oscar Isaac;39.0;68.5;1;0;0;1;0;Ex Machina|Inside Llewyn Davis|A Most Violent Year;Oscar Isaac Hernandez|Óscar Isaac
+607;Inbar Lavi;;63.0;0;1;0;0;0;Imposters|The Last Witch Hunter|Getting That Girl;
+608;Courteney Cox;53.0;65.0;0;1;1;1;0;Friends|Scream|Scream 3;Courteney Cox Arquette|Courtney Cox Arquette|Courteney
+609;Chelsea Field;;69.0;0;1;0;0;0;Masters of the Universe|Commando|The Last Boy Scout;Chelsea Fields
+610;Sophia Lillis;16.0;60.0;0;1;0;0;0;It|Sharp Objects|The Garden;
+611;Kenneth Branagh;57.0;69.5;1;0;1;1;0;Henry V|Hamlet|Much Ado About Nothing;Ken Branagh|Sir Kenneth Branagh|Ken
+612;Nathan Fillion;47.0;73.5;1;0;0;1;0;Castle|Firefly|Serenity;
+613;Diane Keaton;72.0;66.5;0;1;1;1;0;Annie Hall|Something's Gotta Give|The Family Stone;Annie
+614;Frankie Adams;;72.0;0;1;0;0;0;The Expanse|Mortal Engines|Wentworth Prison;
+615;Kat Dennings;31.0;64.5;0;1;0;1;0;Nick and Norah's Infinite Playlist|Thor|Thor: The Dark World;
+616;Kate Winslet;42.0;66.5;0;1;0;0;0;Titanic|Eternal Sunshine of the Spotless Mind|Revolutionary Road;English Rose|Corset Kate
+617;Famke Janssen;53.0;71.5;0;1;1;0;1;X-Men: The Last Stand|GoldenEye|X-Men;
+618;Sarah Wright;34.0;69.0;0;1;0;0;0;American Made|Walk of Shame|The House Bunny;Sarah Mason|Sarah Wright Olsen
+619;Jaime Pressly;40.0;65.0;0;1;0;1;0;My Name Is Earl|Not Another Teen Movie|I Love You, Man;Jamie Pressly
+620;Jean-Claude Van Damme;57.0;69.75;1;0;0;1;1;Double Team|Double Impact|Bloodsport;Jean-Claude|Jean Claude Van Damme|Jean-Claude Van Varenbergh
+621;Will Ferrell;50.0;75.0;1;0;0;1;0;Talladega Nights: The Ballad of Ricky Bobby|Anchorman 2: The Legend Continues|Anchorman: The Legend of Ron Burgundy;Phil Weston|Will|Wilf
+622;Steve Zahn;50.0;67.5;1;0;0;0;0;War for the Planet of the Apes|Sahara|A Perfect Getaway;
+623;Carroll Baker;87.0;65.0;0;1;0;0;0;Baby Doll|Giant|Kindergarten Cop;Carrol Baker
+624;Rachel Bilson;36.0;62.0;0;1;0;0;0;Jumper|The O.C.|The Last Kiss;
+625;Ann Dowd;62.0;;0;1;0;0;0;Compliance|Garden State|The Handmaid's Tale;
+626;Sondra Locke;74.0;64.0;0;1;1;0;0;Bronco Billy|Sudden Impact|Every Which Way But Loose;Sondra Anderson|Bo & Sondra|Bob & Sondra
+627;Mark Ruffalo;50.0;68.0;1;0;1;1;0;The Avengers|Spotlight|Foxcatcher;
+628;Norman Reedus;49.0;70.0;1;0;0;1;0;The Walking Dead|The Boondock Saints|Blade II;Norman Reedis
+629;Mark Strong;;74.0;1;0;0;0;0;Kingsman: The Golden Circle;
+630;Dominic Cooper;40.0;69.5;1;0;0;0;0;The Devil's Double|Captain America: The First Avenger|My Week with Marilyn;
+631;Marc Warren;51.0;68.5;1;0;0;0;0;Wanted|Green Street Hooligans|Band of Brothers;Mark Warren
+632;Lynn Collins;41.0;68.25;0;1;0;0;0;X-Men Origins: Wolverine|John Carter|The Merchant of Venice;
+633;Candice Bergen;72.0;67.5;0;1;0;1;0;Murphy Brown|Miss Congeniality|Bride Wars;Candy Bergen|Olga Mallsnerd|Candy
+634;Sam Elliott;73.0;74.0;1;0;0;1;1;The Big Lebowski|We Were Soldiers|Road House;
+635;January Jones;40.0;66.0;0;1;0;0;0;X-Men: First Class|Unknown|Mad Men;
+636;Heather Graham;48.0;68.0;0;1;0;1;0;Austin Powers: The Spy Who Shagged Me|Boogie Nights|Bowfinger;
+637;Matthew Lewis;28.0;72.25;1;0;0;0;0;Harry Potter and the Deathly Hallows: Part 2|Me Before You|Harry Potter and the Goblet of Fire;Matt Lewis|Matt
+638;Aidan Turner;34.0;71.0;1;0;0;0;0;The Hobbit: The Desolation of Smaug|The Mortal Instruments: City of Bones|The Hobbit: An Unexpected Journey;
+639;Claire Danes;39.0;65.5;0;1;0;1;0;My So-Called Life|Homeland|Romeo + Juliet;
+640;James Spader;58.0;70.0;1;0;0;1;0;The Blacklist|Boston Legal|Sex, Lies, and Videotape;Jimmy Spader|Jimmy
+641;Amy Hargreaves;;62.5;0;1;0;0;0;Blue Ruin|Homeland|13 Reasons Why;Amy Selmes
+642;Viggo Mortensen;59.0;71.0;1;0;0;1;0;The Lord of the Rings: The Return of the King|Captain Fantastic|Eastern Promises;Vig|Guido|Cuervo
+643;Chelsea Alden;;;0;1;1;1;0;13 Reasons Why|The Tale|American Horror Story;
+644;Katie McGrath;34.0;65.5;0;1;0;0;0;Jurassic World|King Arthur: Legend of the Sword|Merlin;
+645;Kate Capshaw;64.0;67.0;0;1;0;1;0;Indiana Jones and the Temple of Doom|Black Rain|Dreamscape;
+646;Jonathan Rhys Meyers;40.0;69.75;1;0;0;1;0;Match Point|The Tudors|The Mortal Instruments: City of Bones;Jonathan Rhys Myers|Jonathan Rhys-Meyers|Jonathan Rhys-Myer
+647;Tina Majorino;33.0;65.0;0;1;0;0;0;Napoleon Dynamite|Waterworld|Veronica Mars;
+648;Lyndsy Fonseca;31.0;65.0;0;1;0;0;0;Kick-Ass|Kick-Ass 2|The Ward;
+649;Annabel Scholey;;64.5;0;1;0;0;0;NOW: In the Wings on a World Stage|Walking on Sunshine;
+650;Amanda Crew;;69.5;0;1;0;0;1;The Haunting in Connecticut|Final Destination 3|The Age of Adaline;
+651;Matthew Rhys;43.0;71.0;1;0;1;0;1;The Post|Burnt|The Americans;Matthew Rhys Evans
+652;Pamela Anderson;50.0;66.75;0;1;1;1;0;Barb Wire|Scary Movie 3|Scooby-Doo;Pamela Denise Anderson|Pam Anderson|Pamela Anderson Lee
+653;Rumer Willis;29.0;66.0;0;1;0;0;0;Wild Cherry|Sorority Row|Hostage;Willa Glen|Rue
+654;Dichen Lachman;;67.5;0;1;0;1;0;Lust for Love|Last Resort|Dollhouse;Deach
+655;Tye Sheridan;21.0;67.5;1;0;0;1;1;Mud|Ready Player One|X-Men: Apocalypse;
+656;Matthias Schoenaerts;40.0;73.5;1;0;1;1;0;Rust and Bone|The Danish Girl|Bullhead;Zenith|Matti
+657;Odette Annable;33.0;68.5;0;1;0;0;0;Cloverfield|The Unborn|The Double;Odette Yustman|Odie
+658;Freddie Highmore;26.0;70.0;1;0;0;1;1;Finding Neverland|Charlie and the Chocolate Factory|Bates Motel;
+659;Glenn Quinn;;70.0;1;0;0;0;0;Angel|Roseanne|Shout;
+660;Sharon Horgan;47.0;68.0;0;1;0;1;1;Pulling|Imagine Me & You|Catastrophe;
+661;Ralph Fiennes;55.0;71.0;1;0;1;0;0;The Grand Budapest Hotel|The Constant Gardener|Schindler's List;Mr. Ralph Fiennes
+662;Meg Ryan;56.0;68.0;0;1;0;1;0;When Harry Met Sally...|You've Got Mail|Sleepless in Seattle;
+663;Jack Nicholson;81.0;69.75;1;0;0;1;0;Chinatown|As Good as It Gets|One Flew Over the Cuckoo's Nest;Mulholland Man|Nick
+664;Fairuza Balk;44.0;63.0;0;1;0;0;0;The Craft|Almost Famous|American History X;Ms. Fairuza Balk|Ru
+665;Heidi Klum;45.0;69.5;0;1;0;1;1;Project Runway|Ella Enchanted|Zoolander;Heidi Samuel|The Body
+666;Frank Doubleday;;;1;0;0;0;0;Escape from New York|Assault on Precinct 13|Space Rage;
+667;Elisha Cuthbert;35.0;62.5;0;1;1;1;0;The Girl Next Door|24|House of Wax;Leesh
+668;Imogen Poots;29.0;64.5;0;1;0;0;0;Green Room|28 Weeks Later|That Awkward Moment;Imi|Imo
+669;Wes Anderson;49.0;73.0;0;0;1;1;1;Fantastic Mr. Fox|Moonrise Kingdom|The Royal Tenenbaums;
+670;Matt Bomer;40.0;71.5;1;0;0;1;0;The Normal Heart|In Time|Magic Mike XXL;Matthew S. Bomer|Matthew Bomer
+671;Emily Beecham;;65.5;0;1;0;0;0;Hail, Caesar!|Into the Badlands|The Thirteenth Tale;
+672;Rona-Lee Shim'on;;69.0;0;1;0;0;0;A Quiet Heart|Policeman|Leak;Rona Lee|Rona-Lee
+673;Wilson Cruz;44.0;68.5;1;0;0;1;0;My So-Called Life|Star Trek: Discovery|13 Reasons Why;
+674;Rachel Keller;25.0;;0;1;0;0;0;Fargo|Legion;
+675;Wallis Day;23.0;68.75;0;1;0;0;0;Krypton|Will|The Royals;
+676;Sarah Hyland;27.0;62.0;0;1;0;1;0;Vampire Academy|Modern Family|See You in Valhalla;Sarah Jane Hyland|SJ|Kitty
+677;Carrie-Anne Moss;50.0;68.5;0;1;0;1;0;The Matrix|Memento|Matrix Revolutions;Carrie Anne Moss|Carrie Ann Moss|Carrie-Ann Moss
+678;Matthew Goode;40.0;74.0;1;0;0;0;0;Stoker|Watchmen|The Imitation Game;Goodey
+679;Lucy Hale;;62.0;0;1;0;1;0;Scream 4|Pretty Little Liars|Truth or Dare;Lucy Kate Hale
+680;Peyton List;31.0;67.0;0;1;0;0;0;The Tomorrow People|As the World Turns|Gotham;
+681;Madison Iseman;21.0;62.0;0;1;0;0;0;Jumanji: Welcome to the Jungle|Still the King|Laid in America;
+682;Kurt Russell;67.0;71.0;1;0;0;1;1;The Hateful Eight|Escape from L.A.|Tango & Cash;
+683;Erica Durance;39.0;67.0;0;1;0;1;0;House of the Dead|Saving Hope|Smallville;Erica Parker
+684;Channing Tatum;;73.0;1;0;0;1;0;21 Jump Street|White House Down|22 Jump Street;Chan
+685;Julianne Hough;29.0;63.0;0;1;0;1;0;Rock of Ages|Safe Haven|Footloose;Julianne|Jules
+686;Nicholas Hoult;28.0;74.75;1;0;0;0;0;Mad Max: Fury Road|About a Boy|Warm Bodies;Nick
+687;Balthazar Getty;43.0;72.0;1;0;0;1;0;Lord of the Flies|Feast|Young Guns II;Balty
+688;Mark Pellegrino;53.0;73.0;1;0;0;1;0;Mulholland Drive|The Big Lebowski|Supernatural;
+689;Leslie Mann;46.0;66.5;0;1;0;0;0;Knocked Up|The Other Woman|This Is 40;
+690;Sally Hawkins;42.0;62.0;0;1;0;1;1;The Shape of Water|Happy-Go-Lucky|Blue Jasmine;
+691;Cameron Monaghan;;71.5;1;0;0;0;0;Gotham|Shameless|The Giver;
+692;Andrew Garfield;34.0;70.5;1;0;0;1;0;The Social Network|Hacksaw Ridge|The Amazing Spider-Man;Andy
+693;Alanis Morissette;44.0;64.0;0;1;0;0;0;Dogma|City of Angels|The Devil Wears Prada;Alanis Morrisette
+694;Steve Howey;40.0;75.5;1;0;0;1;0;Bride Wars|Shameless|Something Borrowed;
+695;Jaime King;;68.5;0;1;0;1;1;My Bloody Valentine|Sin City|Pearl Harbor;James King|Jamie King|Jaime King-Newman
+696;Naomi Watts;49.0;64.5;0;1;0;1;0;Mulholland Drive|King Kong|Birdman or (The Unexpected Virtue of Ignorance);Queen of Remakes
+697;Alan Cumming;53.0;70.0;1;0;0;1;0;The Anniversary Party|GoldenEye|Son of the Mask;Alan Cummings
+698;Bryan Cranston;62.0;70.5;1;0;0;1;1;Breaking Bad|Malcolm in the Middle|Argo;Brian Cranston|Lee Stone|Phil Williams
+699;Julie Benz;46.0;64.0;0;1;0;0;0;Dexter|Hawaii Five-0|Defiance;
+700;Alexandra Shipp;;66.0;0;1;0;0;0;X-Men: Apocalypse|Straight Outta Compton|Love, Simon;Alex Shipp|Allie|Alex
+701;Olga Kurylenko;38.0;69.0;0;1;0;0;1;Oblivion|Quantum of Solace|Hitman;Olha Kostiantynivna Kurylenko|Olga Kutylenko|Oruga Kyurirenko
+702;Maisie Williams;21.0;61.0;0;1;0;1;0;Game of Thrones|The Falling|The Book of Love;
+703;Stephen Amell;37.0;73.0;1;0;0;1;1;Arrow|Teenage Mutant Ninja Turtles: Out of the Shadows|ReGenesis;
+704;Sam Worthington;41.0;70.0;1;0;1;1;0;Avatar|Terminator Salvation|Clash of the Titans;
+705;David Krumholtz;40.0;67.0;1;0;0;1;1;The Deuce|Sausage Party|Slums of Beverly Hills;
+706;Halston Sage;25.0;65.5;0;1;0;0;0;Scouts Guide to the Zombie Apocalypse|The First Time|Paper Towns;
+707;Patrick Wilson;44.0;72.5;1;0;0;1;0;The Phantom of the Opera|Hard Candy|Insidious;
+708;Ivana Milicevic;44.0;69.0;0;1;0;0;0;Just Like Heaven|Running Scared|Paycheck;Ivana Marina|Ivana Milavich
+709;Cindy Sampson;;67.0;0;1;0;1;0;Supernatural|Private Eyes|The Shrine;
+710;Jackie Chan;64.0;68.5;1;0;0;1;0;Jackie Chan's Who Am I?|Rush Hour 2|Rush Hour;Jacky Chan|Yuan Lung Chan|Yuen-Lung Chan
+711;Marion Cotillard;42.0;66.75;0;1;1;0;0;La Vie en Rose|Inception|Two Days, One Night;Simone
+712;Joseph Gordon-Levitt;37.0;69.5;1;0;0;1;0;Inception|Looper|Don Jon;Joey Gordon-Levitt|Joe Gordon-Levitt|Joseph Gordon Levitt
+713;Alan Rickman;;73.0;1;0;0;0;1;Die Hard|Robin Hood: Prince of Thieves|Harry Potter and the Deathly Hallows: Part 2;
+714;Jared Gilmore;18.0;65.0;1;0;0;0;0;Once Upon a Time|The Back-up Plan|Mad Men;Jared S. Gillmore|Jared S. Gilmore|Jared Scott Gilmore
+715;Lindsay Lohan;31.0;65.0;0;1;0;1;0;Mean Girls|The Parent Trap|Freaky Friday;Lindsay Morgan Lohan|Linds|La Lohan
+716;Tommy Wiseau;;68.0;1;0;1;0;1;The Room|Best F(r)iends: Volume One|Samurai Cop 2: Deadly Vengeance;
+717;Kevin Spacey;58.0;70.25;1;0;0;1;0;The Usual Suspects|L.A. Confidential|Se7en;
+718;Linnea Quigley;60.0;62.0;0;1;0;1;0;The Return of the Living Dead|Night of the Demons|Graduation Day;Jesse Dalton|Jessie Dalton|Barbara Gold
+719;Jemaine Clement;44.0;73.0;1;0;0;0;1;Flight of the Conchords|What We Do in the Shadows|Men in Black 3;Vulvus the Abhorrent|J. Clement|Flight of the Conchords
+720;Paula Patton;42.0;67.5;0;1;0;1;0;Precious|Mission: Impossible - Ghost Protocol|Deja Vu;
+721;Catherine Bell;49.0;69.0;0;1;0;1;0;Bruce Almighty|The Triangle|Men of War;
+722;Matt Lanter;35.0;70.0;1;0;0;0;0;Star Wars: The Clone Wars|Vampires Suck|Disaster Movie;Matt Lanter - grandson of deceased survivor Kenley Lanter|Matthew Lanter
+723;Don Johnson;68.0;71.0;1;0;0;1;0;Miami Vice|Django Unchained|A Boy and His Dog;DJ|The Don
+724;Ali Wong;36.0;63.0;0;1;0;0;1;Ali Wong: Baby Cobra|American Housewife|Black Box;
+725;Damian Lewis;47.0;73.25;1;0;0;1;0;Band of Brothers|Dreamcatcher|Homeland;
+726;Kathryn Newton;;65.0;0;1;0;0;0;Big Little Lies|Three Billboards Outside Ebbing, Missouri|Lady Bird;Kathryn Love Newton|Kat
+727;Molly Ephraim;32.0;61.0;0;1;0;0;0;Paranormal Activity 2|Paranormal Activity: The Marked Ones|College Road Trip;
+728;Alexander Ludwig;26.0;74.0;1;0;0;0;0;Vikings|The Hunger Games|Lone Survivor;Zander
+729;Allison Janney;;72.0;0;1;0;0;0;The Help|The Hours|Juno;
+730;Gillian Anderson;49.0;63.0;0;1;0;1;0;The X-Files|The Fall|The Last King of Scotland;
+731;Barry Sloane;37.0;74.0;1;0;0;1;0;Six|Longmire|Noah;
+732;Ariel Winter;20.0;61.0;0;1;0;0;0;Sofia the First|Mr. Peabody & Sherman|Kiss Kiss Bang Bang;
+733;Tobias Menzies;44.0;73.0;1;0;0;0;0;Casino Royale|Rome|Atonement;
+734;Hugh Grant;57.0;71.0;1;0;0;0;0;Love Actually|About a Boy|Four Weddings and a Funeral;Hughie Grant
+735;Patrick Swayze;;71.0;1;0;0;1;0;Dirty Dancing|Road House|Point Break;Buddy
+736;William Fichtner;61.0;72.5;1;0;1;1;0;Crash|Drive Angry|Armageddon;Bill Fichtner|Willian Fichtner|Bill
+737;Amy James-Kelly;;64.0;0;1;0;0;0;Coronation Street|Jericho|Safe;Amy Kelly
+738;Peter Dinklage;48.0;53.0;1;0;0;1;0;Game of Thrones|The Station Agent|X-Men: Days of Future Past;
+739;Sherilyn Fenn;53.0;64.0;0;1;0;0;0;Of Mice and Men|Wild at Heart|The Wraith;Sherri
+740;James Brolin;77.0;76.0;1;0;1;1;0;Traffic|The Amityville Horror|Westworld;Jim Brolin|James & Jane|Mr. Streisand
+741;Angela Bassett;59.0;64.0;0;1;1;1;0;Strange Days|Olympus Has Fallen|What's Love Got to Do with It;
+742;Thomas Jane;49.0;70.25;1;0;1;1;0;Deep Blue Sea|The Mist|The Thin Red Line;Thomas Bridgett|Tom Elliott|Tom Jane
+743;Rupert Everett;59.0;76.0;1;0;0;1;0;My Best Friend's Wedding|An Ideal Husband|Cemetery Man;
+744;Jessica Raine;36.0;66.0;0;1;0;0;0;Wolf Hall|Fortitude|Inside No. 9;Jess
+745;Sarah Gadon;31.0;63.0;0;1;1;0;0;Enemy|Cosmopolis|Dracula Untold;
+746;Sienna Miller;36.0;65.0;0;1;0;0;0;G.I. Joe: The Rise of Cobra|American Sniper|The Lost City of Z;Sienna Rose Miller|Sienna Rose
+747;Liv Tyler;40.0;69.5;0;1;0;1;0;Armageddon|The Lord of the Rings: The Return of the King|The Lord of the Rings: The Fellowship of the Ring;Liv Rundgren|Liver|Livy
+748;Gugu Mbatha-Raw;;64.0;0;1;0;0;0;Belle|Beyond the Lights|Concussion;Gugu Mbatha Raw
+749;Jennifer Grey;58.0;63.0;0;1;0;0;0;Dirty Dancing|Ferris Bueller's Day Off|Red Dawn;Jenny Grey
+750;Emily Hampshire;36.0;65.0;0;1;0;0;0;12 Monkeys|Schitt's Creek|Snow Cake;
+751;Eddie Marsan;49.0;68.75;1;0;0;0;0;Happy-Go-Lucky|21 Grams|The World's End;Edward Marsan|Eddie Marson
+752;Carrie Fisher;;61.0;0;1;0;0;1;Star Wars: Episode IV - A New Hope|Star Wars: Episode V - The Empire Strikes Back|Star Wars: Episode VI - Return of the Jedi;
+753;Alex Wolff;20.0;72.0;1;0;0;0;0;Patriots Day|HairBrained|Coming Through the Rye;Naked Brothers Band|The Naked Brothers Band
+754;Sara Rue;39.0;67.0;0;1;0;1;0;Pearl Harbor|A Slipping-Down Life|Can't Hardly Wait;Sue Rue
+755;Jaime Murray;;67.0;0;1;0;0;0;The Deaths of Ian Stone|Dexter|Defiance;Jamie Murray
+756;Will Arnett;48.0;74.5;1;0;0;1;1;Arrested Development|The Lego Batman Movie|The Lego Movie;
+757;Jessica Alba;37.0;66.5;0;1;0;1;0;Fantastic Four|Sin City|Fantastic 4: Rise of the Silver Surfer;Dzhessika Alba|Jessica Marie Alba|Sky Angel
+758;Wendi McLendon-Covey;;68.0;0;1;0;1;0;Bridesmaids|Blended|Cook Off!;Wendi McClendon-Covey|Wendi McLendon
+759;Simon Pegg;48.0;70.0;1;0;0;1;1;Shaun of the Dead|The World's End|Hot Fuzz;The Cast|Dr. Russel Fell|The Fresh Pegg
+760;Rebecca Hall;36.0;70.0;0;1;0;1;0;Vicky Cristina Barcelona|The Town|The Prestige;
+761;Alexander Calvert;;69.5;1;0;0;0;0;The Edge of Seventeen|Supernatural|Arrow;
+762;Natasha Richardson;;69.0;0;1;0;1;0;The Parent Trap|Asylum|Wild Child;Tasha
+763;Jay Ryan;;73.0;1;0;0;1;0;Neighbours|Beauty and the Beast|Being Eve;Jay Bunyan|Bunners
+764;Maria Bello;51.0;65.0;0;1;0;1;1;A History of Violence|Coyote Ugly|The Cooler;Mario Bello
+765;David Leitch;;71.0;1;0;0;0;0;Atomic Blonde|The Bourne Ultimatum|John Wick;Dave Leitch|David M. Leitch
+766;Jonathan Ke Quan;46.0;64.0;1;0;0;0;0;Indiana Jones and the Temple of Doom|The Goonies|X-Men;Huy Quan Ke|Ko-Wei Kuan|Jonathan Quan
+767;Caitriona Balfe;;69.0;0;1;0;1;0;Escape Plan|Outlander|Money Monster;Caitriona|Cait
+768;Ryan Phillippe;43.0;68.0;1;0;1;1;0;Crash|Gosford Park|Cruel Intentions;Ryan Phillipe|RP
+769;Kristin Kreuk;35.0;64.0;0;1;0;1;0;EuroTrip|Smallville|Street Fighter: The Legend of Chun-Li;
+770;Sofía Vergara;45.0;67.0;0;1;0;1;0;Hot Pursuit|Modern Family|The Three Stooges;Sofía|Sofia Vergara|La Toti
+771;Jensen Ackles;40.0;73.25;1;0;1;0;0;Supernatural|My Bloody Valentine|Days of Our Lives;Jay|Jackles|Jesse
+772;Heath Ledger;;73.0;1;0;1;0;0;Brokeback Mountain|The Dark Knight|A Knight's Tale;Heathcliff Andrew Ledger|Heathy
+773;Daniel Wu;43.0;72.0;1;0;1;1;0;New Police Story|One Nite in Mongkok|Warcraft: The Beginning;Daniel Ng|Yin-Cho Ng|Yin-Jo Ng
+774;Christine Baranski;66.0;68.5;0;1;0;1;0;Chicago|Mamma Mia!|Into the Woods;
+775;Chloe Bennet;26.0;65.75;0;1;0;0;0;Agents of S.H.I.E.L.D.|Agents of S.H.I.E.L.D.: Slingshot|Valley Girl;Chloe Wang
+776;Annette Bening;60.0;68.0;0;1;0;0;0;American Beauty|20th Century Women|The Kids Are All Right;A.B.
+777;Vanessa Morgan;26.0;62.0;0;1;0;0;0;The Latest Buzz|My Babysitter's a Vampire|Finding Carter;Vanessa Morgan Mziray|Vanessa
+778;Christine Taylor;46.0;66.0;0;1;0;0;0;Dodgeball: A True Underdog Story|The Wedding Singer|Zoolander;Christine Joan Taylor
+779;Ezra Miller;25.0;71.0;1;0;0;0;0;The Perks of Being a Wallflower|We Need to Talk About Kevin|Justice League;
+780;Thomas Brodie-Sangster;28.0;70.5;1;0;0;1;0;Maze Runner: The Scorch Trials|The Maze Runner|Love Actually;Thomas Brodie Sangster|Thomas Sangster
+781;Alex Pettyfer;;71.5;1;0;1;1;0;I Am Number Four|Elvis & Nixon|In Time;
+782;Drew Barrymore;43.0;64.0;0;1;0;1;0;Never Been Kissed|50 First Dates|Ever After: A Cinderella Story;D
+783;Russell Crowe;54.0;71.5;1;0;0;1;0;Les Misérables|Gladiator|A Beautiful Mind;Rusty|Russ
+784;C. Thomas Howell;51.0;70.25;1;0;1;1;0;The Outsiders|The Hitcher|E.T. the Extra-Terrestrial;C Thomas Howell|Tom Howell|C.T.
+785;Piper Perabo;41.0;65.5;0;1;0;1;0;Coyote Ugly|Imagine Me & You|Cheaper by the Dozen 2;
+786;Margot Kidder;;66.0;0;1;0;1;0;Superman|Superman II|Black Christmas;Margie
+787;Rachel Nichols;38.0;70.0;0;1;0;1;0;G.I. Joe: The Rise of Cobra|The Amityville Horror|Star Trek;
+788;Terry Crews;49.0;75.25;1;0;0;1;0;Cloudy with a Chance of Meatballs 2|Idiocracy|The Expendables;Terry Crews Jr.|Terry Alan Crews|Squeegee Lo
+789;Guillermo del Toro;53.0;72.0;0;0;1;1;1;Pan's Labyrinth|Hellboy|The Shape of Water;Guillermo Del Toro|Guillo Tine Del Toro|Girerumo Deru Toro
+790;Alan Tudyk;47.0;71.5;1;0;0;1;1;Rogue One: A Star Wars Story|Firefly|I, Robot;Wray Nerely
+791;Joely Richardson;53.0;70.25;0;1;0;1;0;Nip/Tuck|Event Horizon|The Patriot;
+792;Megan du Plessis;;;0;1;0;0;0;The Kissing Booth;
+793;Katie Holmes;39.0;69.0;0;1;0;1;0;Batman Begins|Jack and Jill|Dawson's Creek;
+794;Julianna Margulies;51.0;66.0;0;1;0;1;0;ER|Ghost Ship|Snakes on a Plane;Julianna|Jules
+795;Kiki Sukezane;;61.0;0;1;0;0;0;Heroes Reborn|Lost in Space|Westworld;Kie Sukezane
+796;Kiernan Shipka;18.0;62.0;0;1;0;0;0;Carriers|Mad Men|The Legend of Korra;Kiernan Brennan Shipka|Kiki Shipka
+797;Miles Teller;31.0;72.0;1;0;0;1;0;Fantastic Four|The Spectacular Now|Whiplash;
+798;Úrsula Corberó;28.0;64.25;0;1;0;0;0;Money Heist|Physical or Chemical|Cómo sobrevivir a una despedida;Ursula Corberó
+799;Jessica Jade Andres;33.0;;0;1;0;1;1;Just Go with It|Gossip Girl|Liberator;Jessica Andres
+800;Elizabeth Mitchell;48.0;69.0;0;1;0;0;0;Lost|Running Scared|Frequency;Liz
+801;Kevin Smith;47.0;68.0;1;0;0;1;1;Clerks|Chasing Amy|Clerks II;Silent Bob|Kevin|Kev
+802;Dacre Montgomery;;70.0;1;0;0;0;0;Stranger Things|Power Rangers|Better Watch Out;
+803;Demi Moore;55.0;65.0;0;1;1;1;0;G.I. Jane|Indecent Proposal|Charlie's Angels: Full Throttle;Demi Kutcher|Gimme Moore
+804;Ruth Wilson;36.0;66.0;0;1;0;1;0;Locke|Saving Mr. Banks|Luther;
+805;Jenna Coleman;32.0;62.0;0;1;0;0;0;Victoria|Room at the Top|Captain America: The First Avenger;Jenna Louise Coleman|Jenna-Louise Coleman|Jen
+806;Rhona Mitra;41.0;66.0;0;1;0;0;0;Underworld: Rise of the Lycans|Doomsday|The Life of David Gale;Rhona N. Mitra|Rona Mitra
+807;Gina Gershon;55.0;66.25;0;1;0;1;0;Bound|Showgirls|Killer Joe;
+808;Lily Sullivan;;68.25;0;1;0;0;0;Mental|Jungle|Camp;
+809;Leslie Bibb;43.0;69.0;0;1;0;1;0;Iron Man|Iron Man 2|Miss Nobody;Lesley Bibb|The Bibbster, Lulu
+810;Martin Kove;;73.75;1;0;1;1;0;The Karate Kid|The Karate Kid Part III|The Karate Kid Part II;Marty Cove|Marty Kove
+811;Lauren Holly;;65.0;0;1;0;1;0;Dumb and Dumber|Picket Fences|What Women Want;Holly Lauren
+812;Adria Arjona;;67.0;0;1;0;0;0;Pacific Rim: Uprising|Emerald City|True Detective;
+813;Emile Hirsch;33.0;66.0;1;0;0;0;0;Into the Wild|The Girl Next Door|Milk;Hirschy
+814;Isabelle Fuhrman;21.0;63.0;0;1;0;0;1;Orphan|The Hunger Games|Hounddog;
+815;Ariana Richards;38.0;66.0;0;1;0;0;0;Jurassic Park|Tremors|The Lost World: Jurassic Park;
+816;Josh Hartnett;39.0;75.0;1;0;0;1;0;Lucky Number Slevin|30 Days of Night|The Black Dahlia;Joshua Hartnett
+817;Audrey Fleurot;40.0;69.5;0;1;0;0;0;The Intouchables|Midnight in Paris|Spiral;
+818;Arielle Kebbel;33.0;68.0;0;1;0;0;0;The Grudge 2|The Uninvited|John Tucker Must Die;
+819;Analeigh Tipton;29.0;69.5;0;1;0;0;0;Two Night Stand|Manhattan Love Story|Crazy, Stupid, Love.;Analeigh
+820;Denise Richards;47.0;66.0;0;1;0;1;0;The World Is Not Enough|Starship Troopers|Wild Things;Denise Lee Richards|Fluffy Girl
+821;Odeya Rush;21.0;65.0;0;1;1;0;1;Goosebumps|The Giver|The Odd Life of Timothy Green;
+822;Rebecca Rittenhouse;;64.5;0;1;0;0;0;Blood & Oil|Red Band Society|The Handmaid's Tale;
+823;Meredith Hagner;31.0;66.0;0;1;0;0;0;Veep|Hits|Irrational Man;Meredith Kathleen Hagner
+824;Hayden Christensen;37.0;72.0;1;0;0;1;0;Star Wars: Episode III - Revenge of the Sith|Star Wars: Episode II - Attack of the Clones|Jumper;Hayden Christiansen|Den|H
+825;Audrey Hepburn;;67.0;0;1;0;0;0;Breakfast at Tiffany's|Charade|Roman Holiday;Audrey|Edda van Heemstra
+826;Edward Norton;48.0;72.0;1;0;0;1;1;American History X|Primal Fear|Birdman or (The Unexpected Virtue of Ignorance);Edward Harrison|Ed Norton|Ed
+827;Dane DeHaan;;68.25;1;0;0;0;0;Chronicle|Kill Your Darlings|The Amazing Spider-Man 2;Dane Dehaan
+828;Eliza Dushku;37.0;65.0;0;1;0;1;0;Bring It On|Jay and Silent Bob Strike Back|The Alphabet Killer;Duck Shoot
+829;Maggie Q;39.0;67.5;0;1;0;1;0;Divergent|Live Free or Die Hard|Mission: Impossible III;Ly My Ky|Mei-Kei Lei|Meiqi Li
+830;Christopher Meloni;57.0;72.0;1;0;1;1;0;Man of Steel|Law & Order: Special Victims Unit|Sin City: A Dame to Kill For;Christopher P. Meloni|Chris Meloni|Reverend Clyde Stanky
+831;Tilda Swinton;57.0;70.5;0;1;0;1;1;We Need to Talk About Kevin|The Grand Budapest Hotel|Doctor Strange;Swilda
+832;Mads Mikkelsen;52.0;72.25;1;0;0;1;0;Hannibal|The Hunt|Doctor Strange;Mads|Mads D. Mikkelsen|Mads Dittmann Mikkelsen
+833;Kevin Bacon;59.0;70.0;1;0;0;1;0;Footloose|Hollow Man|The Woodsman;The Bacon Brothers|Kevin Bacon III|the Bacon Brothers
+834;Ben Foster;37.0;69.0;1;0;1;1;0;Hell or High Water|3:10 to Yuma|The Messenger;Goat Boy
+835;Johnny Galecki;43.0;65.0;1;0;0;1;0;The Big Bang Theory|Roseanne|National Lampoon's Christmas Vacation;John Galecki
+836;Logan Lerman;26.0;69.0;1;0;0;1;0;The Perks of Being a Wallflower|Fury|The Three Musketeers;Loggie
+837;Selma Blair;45.0;64.0;0;1;0;1;0;Cruel Intentions|Hellboy|The Sweetest Thing;
+838;Julia Stiles;37.0;67.0;0;1;1;0;1;10 Things I Hate About You|Save the Last Dance|Silver Linings Playbook;Julie Stiles
+839;Mandy Moore;34.0;70.0;0;1;0;0;0;A Walk to Remember|Tangled|Saved!;Amanda Moore|Moore and Parker
+840;Rob Lowe;54.0;71.0;1;0;0;1;0;St. Elmo's Fire|The Outsiders|Wayne's World;
+841;Brittany Snow;32.0;64.0;0;1;0;1;0;Pitch Perfect|Hairspray|Pitch Perfect 2;Britt
+842;John Cusack;51.0;74.0;1;0;0;1;1;Grosse Pointe Blank|High Fidelity|Say Anything...;John Cusak|Johnny
+843;Charlotte Riley;36.0;65.0;0;1;0;0;0;In the Heart of the Sea|Edge of Tomorrow|Entity;
+844;Sam Neill;70.0;71.75;1;0;1;0;1;Hunt for the Wilderpeople|Jurassic Park|Jurassic Park III;John Dermot
+845;Melora Hardin;50.0;67.0;0;1;0;1;0;17 Again|Hannah Montana: The Movie|The Office;
+846;Kelly McGillis;60.0;70.0;0;1;0;1;0;Witness|Top Gun|The Accused;
+847;Catherine Zeta-Jones;48.0;67.0;0;1;0;0;0;Chicago|Entrapment|The Mask of Zorro;Catherine Zeta Jones
+848;Michael Keaton;66.0;69.0;1;0;0;1;0;Birdman or (The Unexpected Virtue of Ignorance)|Spotlight|The Founder;Michael John Douglas|Michael Douglas|Michael Douglas
+849;Tanner Buchanan;;68.5;1;0;0;0;0;Designated Survivor|Grey's Anatomy|The Fosters;
+850;Daniel Day-Lewis;61.0;74.0;1;0;0;0;0;There Will Be Blood|The Last of the Mohicans|Gangs of New York;Daniel Day Lewis|DDL
+851;Sasha Pieterse;22.0;66.0;0;1;0;1;0;Inherent Vice|Pretty Little Liars|X-Men: First Class;
+852;Jude Law;45.0;70.0;1;0;0;1;0;The Talented Mr. Ripley|The Grand Budapest Hotel|Sky Captain and the World of Tomorrow;
+853;Jena Malone;33.0;65.0;0;1;0;1;0;Contact|The Hunger Games: Mockingjay - Part 2|The Neon Demon;Debbie Malone
+854;Christoph Waltz;61.0;67.0;1;0;1;0;0;Django Unchained|Inglourious Basterds|The Zero Theorem;Christopher Waltz
+855;Naomi Scott;25.0;65.75;0;1;0;0;0;Power Rangers|The 33|Aladdin;Nay
+856;Nick Offerman;47.0;71.0;1;0;0;1;0;Parks and Recreation|The Founder|Fargo;George W. Bush|Brad Pitt|John Swartzwelder
+857;Gwendoline Christie;39.0;75.0;0;1;0;1;0;Star Wars: Episode VII - The Force Awakens|Star Wars: The Last Jedi|Game of Thrones;
+858;Brianne Davis;;67.5;0;1;1;1;0;Six|Jarhead|Synchronicity;
+859;David Cross;54.0;68.0;1;0;0;1;1;Arrested Development|Eternal Sunshine of the Spotless Mind|Megamind;Sir Willups Brightslymoore|Crossy
+860;Katherine McNamara;22.0;65.0;0;1;0;0;0;Shadowhunters: The Mortal Instruments|Maze Runner: The Death Cure|R.L. Stine's Monsterville: The Cabinet of Souls;Kat McNamara|Katie-Mac|Kat
+861;Eddie Murphy;57.0;69.0;1;0;0;1;1;The Nutty Professor|Dreamgirls|Coming to America;Fred Braughton|Edward 'Eddie' Regan Murphy|Ed
+862;Kit Harington;31.0;68.0;1;0;0;1;1;Game of Thrones|Pompeii|How to Train Your Dragon 2;
+863;JoAnna Garcia Swisher;38.0;65.0;0;1;0;0;0;Not Another Teen Movie|Reba|The Internship;JoAnna Garcia|Joanna Garcia|Joanna Garcia-Swisher
+864;Rainn Wilson;52.0;74.5;1;0;0;1;0;The Office|Super|My Super Ex-Girlfriend;
+865;Garrett Hedlund;33.0;74.5;1;0;0;1;0;TRON: Legacy|Mudbound|On the Road;
+866;Lili Simmons;24.0;67.0;0;1;0;0;0;Banshee|True Detective|Bone Tomahawk;
+867;Meredith Monroe;;66.0;0;1;0;0;0;Dawson's Creek|Minority Report|Transformers: Dark of the Moon;Meridith Monroe|Meredith Munroe
+868;Caleb Landry Jones;28.0;71.0;1;0;0;0;0;X-Men: First Class|Three Billboards Outside Ebbing, Missouri|Get Out;Caleb Jones
+869;Nathalie Emmanuel;29.0;67.0;0;1;0;1;0;Furious 7|Maze Runner: The Scorch Trials|Maze Runner: The Death Cure;Laetitia Vaval
+870;Garret Dillahunt;;74.0;1;0;1;0;0;12 Years a Slave|Deadwood|No Country for Old Men;
+871;Finn Cole;;67.75;1;0;0;0;0;Animal Kingdom|Peaky Blinders|An Inspector Calls;
+872;Lucy Lawless;50.0;69.5;0;1;0;1;0;Xena: Warrior Princess|Spartacus: War of the Damned|Spider-Man;Unco, short for Uncoordinated|Luce|LL
+873;Topher Grace;39.0;70.75;1;0;0;1;0;Spider-Man 3|That '70s Show|In Good Company;Christopher Grace
+874;Kathryn Morris;49.0;67.0;0;1;0;0;0;Minority Report|Mindhunters|Cold Case;Kathy Morris
+875;Holly Hunter;60.0;62.0;0;1;0;1;0;The Piano|Thirteen|The Big Sick;
+876;Danneel Ackles;39.0;67.0;0;1;0;0;0;Harold & Kumar Escape from Guantanamo Bay|Ten Inch Hero|The Back-up Plan;Danneel Graul|Danneel Harris
+877;Tom Selleck;73.0;75.5;1;0;0;1;1;Blue Bloods|Magnum, P.I.|In & Out;
+878;Orlando Bloom;41.0;71.0;1;0;0;1;0;The Lord of the Rings: The Fellowship of the Ring|Pirates of the Caribbean: The Curse of the Black Pearl|The Lord of the Rings: The Return of the King;Orli|OB
+879;Nathalie Kelley;33.0;66.0;0;1;0;0;0;The Fast and the Furious: Tokyo Drift|Take Me Home Tonight|The Vampire Diaries;
+880;Ridley Scott;80.0;68.5;0;0;1;1;0;The Martian|Thelma & Louise|Gladiator;Sir Ridley Scott|R-Scott|Rid
+881;Jack Black;48.0;66.0;1;0;0;1;0;School of Rock|Nacho Libre|Kung Fu Panda;Tenacious D|JB|Jables
+882;Gina Torres;49.0;70.0;0;1;0;1;0;Serenity|Matrix Revolutions|The Matrix Reloaded;Gena Tores|Gina Tores|Gena Torres
+883;David Fincher;55.0;72.5;1;0;1;1;0;Se7en|The Social Network|Gone Girl;Dave Fincher|Fincher|Finch
+884;Ben Stiller;52.0;67.0;1;0;0;1;1;Zoolander|Tropic Thunder|The Secret Life of Walter Mitty;Benjamin Stiller|Benji Stiller
+885;Bill Hader;39.0;73.0;1;0;0;1;1;The Skeleton Twins|Inside Out|Trainwreck;William T. Hader Jr.|True List
+886;Joe Manganiello;41.0;77.0;1;0;0;1;0;Justice League|True Blood|Magic Mike XXL;
+887;Gwyneth Paltrow;45.0;69.0;0;1;0;1;0;Shakespeare in Love|Sliding Doors|Iron Man 3;Gwenyth Paltrow|Gwynnie
+888;Sasha Alexander;45.0;65.0;0;1;1;1;0;NCIS|Rizzoli & Isles|Mission: Impossible III;
+889;Jonny Lee Miller;45.0;69.75;1;0;1;0;0;Mindhunters|Elementary|Trainspotting;Jonny Lee-Miller
+890;Brittany Daniel;42.0;67.0;0;1;0;1;0;Skyline|Club Dread|White Chicks;Boo Boo, Britt
+891;Eric Christian Olsen;41.0;74.0;1;0;0;1;0;Dumb and Dumberer: When Harry Met Lloyd|Fired Up!|Not Another Teen Movie;Eric Olsen
+892;Sarah Jeffery;22.0;63.0;0;1;0;0;0;Shades of Blue|The X-Files|Wayward Pines;Sarah Jeffrey
+893;Martin Starr;35.0;73.0;1;0;0;1;0;Freaks and Geeks|Party Down|Silicon Valley;Martin Schienle
+894;Lewis Tan;;74.0;1;0;1;0;0;Deadpool 2|Into the Badlands|Iron Fist;
+895;Sarah Snook;;65.0;0;1;0;0;0;Predestination|The Dressmaker|Steve Jobs;
+896;Cindy Morgan;63.0;67.0;0;1;0;1;0;Caddyshack|TRON|Falcon Crest;
+897;Margarita Levieva;;66.0;0;1;0;0;0;The Lincoln Lawyer|Adventureland|The Invisible;
+898;Stellan Skarsgård;;75.0;1;0;0;1;1;Good Will Hunting|Nymphomaniac: Vol. I|Nymphomaniac: Vol. II;Stellan Skarsgard|Skarzie
+899;Ty Simpkins;16.0;69.0;1;0;0;0;0;Jurassic World|Iron Man 3|Insidious;Ty Keegan
+900;Derek Klena;;73.0;1;0;0;0;0;Unbreakable Kimmy Schmidt|Law & Order: Special Victims Unit|Blue Bloods;
+901;Marlon Brando;;69.0;1;0;1;0;0;Apocalypse Now|The Godfather|Last Tango in Paris;Bud|Mr Mumbles
+902;Levi Miller;15.0;70.5;1;0;0;0;0;Pan|Red Dog: True Blue|Jasper Jones;
+903;Bobby Cannavale;48.0;74.5;1;0;0;0;1;The Station Agent|Ant-Man|Parker;
+904;Matt Czuchry;;69.5;1;0;0;0;0;Eight Legged Freaks|Gilmore Girls|I Hope They Serve Beer in Hell;Matthew Czuchry
+905;Pierce Brosnan;65.0;74.0;1;0;0;1;0;The World Is Not Enough|Tomorrow Never Dies|GoldenEye;Pirs Brosnan
+906;James Cameron;63.0;74.0;0;0;1;1;1;Avatar|Titanic|Terminator 2;J. C.|Jim Cameron|James Cameron and his Lawyers
+907;Malina Weissman;;64.0;0;1;0;0;0;Teenage Mutant Ninja Turtles|A Series of Unfortunate Events|Nine Lives;
+908;Matt LeBlanc;50.0;69.5;1;0;0;1;0;Friends|Lost in Space|Episodes;Matt LeBlanc Arquette|Matthew Le Blanc|Matt Le Blanc
+909;Dianna Agron;32.0;65.5;0;1;1;0;0;The Family|I Am Number Four|Glee;Dianna Argon|The Cast of Glee
+910;Erica Cerra;38.0;65.75;0;1;0;0;0;Power Rangers|Blade: Trinity|Percy Jackson & the Olympians: The Lightning Thief;
+911;Frances McDormand;;65.0;0;1;0;1;0;Fargo|Three Billboards Outside Ebbing, Missouri|Moonrise Kingdom;Fran McDormand|Fran
+912;Winston Duke;;77.0;1;0;0;0;0;Black Panther|Avengers: Infinity War|Person of Interest;
+913;Rebecca Romijn;45.0;71.0;0;1;0;1;0;X-Men|Femme Fatale|X-Men 2;Rebecca Romijn-Stamos|Rebecca Romijn Stamos
+914;Rachael Taylor;33.0;67.75;0;1;0;1;1;Transformers|The Loft|Red Dog;
+915;Stana Katic;;69.0;0;1;0;1;0;Castle|CBGB|For Lovers Only;
+916;Jonah Hill;34.0;67.0;1;0;0;1;1;21 Jump Street|22 Jump Street|The Wolf of Wall Street;Pat Horse
+917;Lorelei Linklater;24.0;64.0;0;1;0;0;0;Blood Surf|Bomb City|Waking Life;
+918;Alyssa Milano;45.0;62.0;0;1;0;1;0;Charmed|Commando|Who's the Boss?;Alyssa Jayne Milano|Lyssa|Conan
+919;Desmond Harrington;41.0;71.0;1;0;0;0;0;The Hole|Wrong Turn|Love Object;
+920;Seann William Scott;41.0;71.0;1;0;0;1;1;American Pie|American Wedding|American Pie 2;Sean W. Scott|Seann W. Scott|Seann Scott
+921;Barry Keoghan;;67.0;1;0;0;0;0;The Killing of a Sacred Deer|Dunkirk|'71;
+922;Jack O'Connell;27.0;68.0;1;0;0;0;0;Unbroken|'71|Starred Up;
+923;Seth Rogen;36.0;71.0;1;0;0;1;1;This Is the End|Superbad|Pineapple Express;Seth Rogan
+924;Lara Flynn Boyle;48.0;66.0;0;1;0;1;0;Happiness|Men in Black II|The Practice;Laura Flynn Boyle|L.F.
+925;Lauren Lapkus;32.0;70.0;0;1;0;0;1;Jurassic World|Orange Is the New Black|Blended;
+926;Téa Leoni;52.0;68.0;0;1;0;1;0;The Family Man|Jurassic Park III|Deep Impact;Tea Leoni
+927;Cary Elwes;55.0;71.0;1;0;1;1;0;Saw|The Princess Bride|Robin Hood: Men in Tights;
+928;Julie Bowen;48.0;66.0;0;1;0;1;0;Modern Family|Happy Gilmore|Horrible Bosses;
+929;Laëtitia Eïdo;;68.75;0;1;0;0;1;Fauda|Holy Air|Dancing Arabs;Lilly Eido|Lilly Eïdo
+930;John Francis Daley;32.0;72.0;1;0;1;0;1;Bones|Vacation|Waiting...;
+931;Ciarán Hinds;65.0;72.0;1;0;0;0;0;The Woman in Black|Harry Potter and the Deathly Hallows: Part 2|Tinker Tailor Soldier Spy;Ciaran Hinds|Ciarin Hinds
+932;Emma Rigby;;66.0;0;1;0;0;0;Once Upon a Time in Wonderland|The Physician|American Violence;
+933;Nadine Velazquez;39.0;65.0;0;1;0;1;0;Flight|My Name Is Earl|War;Nadine Velasquez|Nadine E. Velazquez
+934;Alice Braga;35.0;64.0;0;1;1;1;0;I Am Legend|Predators|Repo Men;Lili
+935;Mike Myers;55.0;67.75;1;0;0;0;1;Austin Powers: The Spy Who Shagged Me|Austin Powers in Goldmember|Austin Powers: International Man of Mystery;Tommy Maitland|Michael Meyers|Mike Meyers
+936;Jack Cutmore-Scott;;73.0;1;0;0;0;0;Kingsman: The Secret Service|Dunkirk|Cooper Barrett's Guide to Surviving Life;
+937;Tiffany Haddish;38.0;66.0;0;1;0;1;1;Girls Trip|Keanu|Meet the Spartans;
+938;Bridget Regan;;69.0;0;1;0;0;0;Jane the Virgin|The Last Ship|Agent Carter;
+939;Vanessa Hudgens;29.0;61.0;0;1;0;1;0;High School Musical 3: Senior Year|Beastly|Spring Breakers;Vanessa A. Hudgens|Vanessa Anne Hudgens|Vanesssa Hudgens
+940;Laura Vandervoort;;66.0;0;1;0;1;0;Smallville|V|Jigsaw;Laura Vanderwoort|VanderV
+941;Zack Snyder;52.0;67.0;0;0;1;1;1;300|Watchmen|Man of Steel;The Wizard
+942;Liam Hemsworth;28.0;75.0;1;0;0;0;0;The Hunger Games|The Hunger Games: Mockingjay - Part 1|The Hunger Games: Catching Fire;
+943;Matt Smith;35.0;71.5;1;0;1;0;0;Doctor Who|Pride and Prejudice and Zombies|Terminator Genisys;Matthew Smith|Smithers
+944;John Tui;42.0;72.0;1;0;0;0;0;Battleship|The Hobbit: The Battle of the Five Armies|Solo: A Star Wars Story;
+945;Sharlto Copley;44.0;72.25;1;0;1;1;0;District 9|Chappie|Hardcore Henry;
+946;Bobcat Goldthwait;56.0;67.0;1;0;1;0;1;God Bless America|Shakes the Clown|World's Greatest Dad;Bobcat Boldthwait|Jack Cheese|Joe Gideon
+947;Leigh Whannell;41.0;67.0;1;0;0;1;1;Saw|Insidious|Insidious: Chapter 3;Leigh Whannel
+948;Javier Bardem;49.0;71.5;1;0;0;1;0;Skyfall|No Country for Old Men|The Sea Inside;Javier Encinas|Benito González
+949;Geena Davis;62.0;72.0;0;1;0;1;0;Thelma & Louise|The Long Kiss Goodnight|The Fly;Virginia Emmolo
+950;Kelly Preston;55.0;66.0;0;1;0;0;0;Battlefield Earth|The Cat in the Hat|Jerry Maguire;Kelly Palzis
+951;Ron Perlman;68.0;73.0;1;0;0;1;0;Hand of God|Hellboy II: The Golden Army|Hellboy;Ronald Perlman
+952;Helen Mirren;72.0;64.0;0;1;1;1;0;RED|The Queen|Hitchcock;Dame Helen Mirren|Popper
+953;Peter Mayhew;74.0;87.0;1;0;0;0;0;Star Wars: Episode VII - The Force Awakens|Star Wars: Episode V - The Empire Strikes Back|Star Wars: Episode IV - A New Hope;Chewbacca
+954;Jessica Brown Findlay;28.0;65.0;0;1;0;0;0;Winter's Tale|Victor Frankenstein|Albatross;Jessica Brown-Findlay|Jess
+955;Maya Hawke;19.0;68.5;0;1;0;0;0;Stranger Things|Little Women|Ladyworld;Maya Thurman-Hawke
+956;Anthony Carrigan;;71.0;1;0;0;0;1;Gotham|The Flash|Barry;
+957;Atticus Shaffer;19.0;55.0;1;0;0;0;0;The Unborn|Hancock|Frankenweenie;
+958;Tatiana Maslany;32.0;64.0;0;1;0;1;0;Orphan Black|Ginger Snaps 2: Unleashed|Picture Day;Tat
+959;Michelle Rodriguez;39.0;65.0;0;1;0;1;0;Avatar|The Fast and the Furious|Girlfight;Michelle Rodríguez|M. Rod
+960;Lakeith Stanfield;26.0;72.0;1;0;0;1;0;Short Term 12|Selma|Death Note;Keith Stanfield|LaKeith Stanfield|Lakeith Lee Stanfield
+961;Ellen Pompeo;48.0;66.0;0;1;1;1;0;Grey's Anatomy|Daredevil|Old School;The Pencil
+962;Jackie Sandler;43.0;69.0;0;1;0;0;0;Pixels|Hotel Transylvania|Little Nicky;Jacqueline Sandler|Jackie Titone|Jacqueline Titone
+963;Shawn Hatosy;42.0;69.0;1;0;1;0;1;Animal Kingdom|Southland|Alpha Dog;Shawn Wayne Hatosy
+964;Ashton Kutcher;40.0;74.5;1;0;0;1;1;That '70s Show|Just Married|Dude, Where's My Car?;Ash|Kutch
+965;Mary Mouser;22.0;63.0;0;1;0;0;0;Alexander and the Terrible, Horrible, No Good, Very Bad Day|Final Fantasy VII: Advent Children|Son of the Mask;Mary Maitlyn Mouser|Mary Matilyn Mouser
+966;Jamie Lee Curtis;59.0;67.0;0;1;1;1;0;True Lies|A Fish Called Wanda|Freaky Friday;Lady Haden-Guest|The Scream Queen|The Queen of Screams
+967;Sarah Bolger;27.0;64.0;0;1;0;0;0;In America|The Spiderwick Chronicles|The Moth Diaries;
+968;Awkwafina;;61.0;0;1;0;0;0;Neighbors 2: Sorority Rising|Storks|Ocean's 8;Nora Lum
+969;Charlotte Rampling;72.0;66.5;0;1;0;0;0;45 Years|Swimming Pool|Never Let Me Go;The Legend
+970;Clive Owen;53.0;74.0;1;0;0;1;0;Closer|Children of Men|Inside Man;
+971;Brittany Murphy;;63.0;0;1;0;1;0;Just Married|8 Mile|Girl, Interrupted;Brittany Bertolotti|Brittany Anne Murphy|Brittany Anne Murphy-Monjack
+972;Lesley-Ann Brandt;;67.0;0;1;0;0;0;Gotham|Painkillers|Lucifer;
+973;Paul Anderson;;69.0;1;0;0;0;0;Sherlock Holmes: A Game of Shadows|'71|Legend;Boycey
+974;Michael J. Fox;56.0;64.5;1;0;0;1;0;Back to the Future|Back to the Future Part II|The Frighteners;Michael Fox|Mike Fox|Mike
+975;Claire Forlani;;65.5;0;1;0;1;0;Meet Joe Black|Mystery Men|In the Name of the King: A Dungeon Siege Tale;Clair Forlani
+976;Olivia Colman;44.0;67.0;0;1;0;0;0;Tyrannosaur|The Lobster|Hot Fuzz;Olivia Coleman|Oliva Colman|Collie
+977;Sharon Stone;60.0;68.5;0;1;0;1;0;Basic Instinct|Casino|The Quick and the Dead;Sahron Stone|Sheron Stoun
+978;Wes Chatham;39.0;71.0;1;0;0;0;0;The Hunger Games: Mockingjay - Part 2|The Hunger Games: Mockingjay - Part 1|In the Valley of Elah;John Wesley Chatham
+979;Jeffrey Wright;52.0;71.0;1;0;0;1;0;Broken Flowers|Shaft|Angels in America;
+980;Jenna Dewan Tatum;37.0;62.0;0;1;0;1;0;Step Up|The Jerk Theory|Tamara;Jenna Dewan|Jenna Dewan-Tatum|Jenna Tatum
+981;Phoebe Tonkin;28.0;67.75;0;1;0;0;0;Tomorrow, When the War Began|H2O: Just Add Water|Bait;Phoebs
+982;Jared Harris;56.0;70.75;1;0;1;0;0;Sherlock Holmes: A Game of Shadows|The Mortal Instruments: City of Bones|The Curious Case of Benjamin Button;Hot Buns
+983;Hilary Swank;43.0;66.0;0;1;0;1;0;Boys Don't Cry|P.S. I Love You|Million Dollar Baby;Hilary
+984;Taylor Sheridan;;70.5;1;0;1;0;1;Wind River|Hell or High Water|Sicario;Tayler Sheridan
+985;Halle Berry;51.0;65.0;0;1;0;1;0;Gothika|Catwoman|Die Another Day;
+986;Peter Sarsgaard;47.0;71.0;1;0;0;1;0;Garden State|Shattered Glass|Kinsey;Peter Scarsgaard
+987;Debra Winger;63.0;64.0;0;1;0;1;0;Terms of Endearment|An Officer and a Gentleman|Urban Cowboy;Emmett|Debbie Winger
+988;Natalie Alyn Lind;;65.0;0;1;0;0;0;The Gifted|The Goldbergs|Gotham;Natalie Lind
+989;Chad Michael Murray;;72.0;1;0;1;0;1;One Tree Hill|A Cinderella Story|House of Wax;Chad M. Murray|CMM
+990;Ian Somerhalder;39.0;69.75;1;0;1;1;0;The Vampire Diaries|The Rules of Attraction|Pulse;Smolderholder
+991;Katy Mixon;37.0;67.0;0;1;0;0;0;Hell or High Water|Four Christmases;Katy Elizabeth Mixon
+992;Alex Roe;;72.0;1;0;0;0;0;The 5th Wave|Hot Summer Nights;Alex Roe-Brown
+993;Amy Poehler;46.0;62.0;0;1;0;1;1;Inside Out|Baby Mama|Parks and Recreation;Upright Citizens Brigade|The Upright Citizens Brigade Theatre|Cool Cat Amy
+994;Julianne Moore;57.0;63.0;0;1;0;1;0;The Hours|Still Alice|The Kids Are All Right;Juli
+995;Caity Lotz;31.0;66.0;0;1;0;0;0;The Machine|The Pact|Arrow;Cat|Cait
+996;Ryan Hurst;41.0;77.0;1;0;0;0;0;Remember the Titans|The Ladykillers|We Were Soldiers;
+997;Kelly Macdonald;42.0;62.5;0;1;0;0;0;No Country for Old Men|Gosford Park|Brave;Kelly MacDonald
+998;Natalie Martinez;33.0;66.5;0;1;0;0;0;Death Race|End of Watch|Self/less;
+999;Asia Argento;42.0;66.0;0;1;1;0;1;Land of the Dead|xXx|The Heart Is Deceitful Above All Things;Az|Silver Gems|Asiaargento23
+1000;Ansel Elgort;24.0;75.0;1;0;0;1;0;The Fault in Our Stars|Baby Driver|Divergent;Ansølo

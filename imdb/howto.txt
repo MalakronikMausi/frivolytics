@@ -22,3 +22,7 @@ Process ranking history for IMDB top 1000:
 - The output (tableau_data.csv) can be used to do some fun analyses
 
 - Deactivate your IMDBPro trial so you don't get charged!
+
+# Get the positions
+
+Actor, Actress, Writer, Producer, Director
