@@ -23,7 +23,7 @@ ranking_data$date <- gsub("X2", "2", ranking_data$date)
 ranking_data <- ranking_data %>% separate(date, c("year", "month", "day"), "\\.", remove=FALSE)
 
 # Create condensed version by aggregating data to max ranking per month
-ranking_data_agg <- aggregate(rank ~ name + year + month, ranking_data, max)
+ranking_data_agg <- aggregate(rank ~ name + year + month, ranking_data, min)
 
 # Read in metadata
 setwd("~/Desktop/frivolytics/imdb")
